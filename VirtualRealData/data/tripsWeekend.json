@@ -1,0 +1,3407 @@
+{
+	"start_tick": 1390712400,
+	"end_tick": 1390798800,
+	"trips": [{
+		"id": 166085,
+		"start_tick": 1390717620,
+		"end_tick": 1390718280,
+		"start_station_id": 40,
+		"end_station_id": 50,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 646
+	}, {
+		"id": 166087,
+		"start_tick": 1390719780,
+		"end_tick": 1390721400,
+		"start_station_id": 34,
+		"end_station_id": 38,
+		"start_pos": [37.79728, -122.398436],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 1574
+	}, {
+		"id": 166088,
+		"start_tick": 1390719840,
+		"end_tick": 1390721220,
+		"start_station_id": 57,
+		"end_station_id": 38,
+		"start_pos": [37.784878, -122.401014],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 1401
+	}, {
+		"id": 166096,
+		"start_tick": 1390721400,
+		"end_tick": 1390722840,
+		"start_station_id": 38,
+		"end_station_id": 62,
+		"start_pos": [37.799953, -122.398525],
+		"end_pos": [37.798522, -122.407245],
+		"duration": 1443
+	}, {
+		"id": 166098,
+		"start_tick": 1390722720,
+		"end_tick": 1390723920,
+		"start_station_id": 49,
+		"end_station_id": 58,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.776377, -122.39607],
+		"duration": 1216
+	}, {
+		"id": 166100,
+		"start_tick": 1390723440,
+		"end_tick": 1390723620,
+		"start_station_id": 43,
+		"end_station_id": 39,
+		"start_pos": [37.787152, -122.388013],
+		"end_pos": [37.789625, -122.390264],
+		"duration": 136
+	}, {
+		"id": 166101,
+		"start_tick": 1390724040,
+		"end_tick": 1390725120,
+		"start_station_id": 59,
+		"end_station_id": 49,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 1102
+	}, {
+		"id": 166102,
+		"start_tick": 1390724700,
+		"end_tick": 1390725540,
+		"start_station_id": 35,
+		"end_station_id": 61,
+		"start_pos": [37.794231, -122.402923],
+		"end_pos": [37.780356, -122.412919],
+		"duration": 848
+	}, {
+		"id": 166103,
+		"start_tick": 1390726020,
+		"end_tick": 1390726500,
+		"start_station_id": 5,
+		"end_station_id": 1,
+		"start_pos": [37.336721, -121.894074],
+		"end_pos": [37.329732, -121.901782],
+		"duration": 443
+	}, {
+		"id": 166104,
+		"start_tick": 1390726080,
+		"end_tick": 1390726860,
+		"start_station_id": 63,
+		"end_station_id": 49,
+		"start_pos": [37.794139, -122.394434],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 780
+	}, {
+		"id": 166105,
+		"start_tick": 1390726140,
+		"end_tick": 1390726860,
+		"start_station_id": 63,
+		"end_station_id": 49,
+		"start_pos": [37.794139, -122.394434],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 732
+	}, {
+		"id": 166107,
+		"start_tick": 1390726620,
+		"end_tick": 1390727220,
+		"start_station_id": 59,
+		"end_station_id": 40,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 645
+	}, {
+		"id": 166108,
+		"start_tick": 1390726620,
+		"end_tick": 1390733520,
+		"start_station_id": 66,
+		"end_station_id": 40,
+		"start_pos": [37.789625, -122.400811],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 6888
+	}, {
+		"id": 166109,
+		"start_tick": 1390726740,
+		"end_tick": 1390732260,
+		"start_station_id": 60,
+		"end_station_id": 60,
+		"start_pos": [37.788446, -122.408499],
+		"end_pos": [37.788446, -122.408499],
+		"duration": 5473
+	}, {
+		"id": 166112,
+		"start_tick": 1390727040,
+		"end_tick": 1390734000,
+		"start_station_id": 33,
+		"end_station_id": 33,
+		"start_pos": [37.795001, -122.39997],
+		"end_pos": [37.795001, -122.39997],
+		"duration": 6928
+	}, {
+		"id": 166113,
+		"start_tick": 1390727220,
+		"end_tick": 1390734000,
+		"start_station_id": 33,
+		"end_station_id": 33,
+		"start_pos": [37.795001, -122.39997],
+		"end_pos": [37.795001, -122.39997],
+		"duration": 6786
+	}, {
+		"id": 166115,
+		"start_tick": 1390727940,
+		"end_tick": 1390740240,
+		"start_station_id": 65,
+		"end_station_id": 65,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 12312
+	}, {
+		"id": 166116,
+		"start_tick": 1390728060,
+		"end_tick": 1390728780,
+		"start_station_id": 41,
+		"end_station_id": 54,
+		"start_pos": [37.791464, -122.391034],
+		"end_pos": [37.771058, -122.402717],
+		"duration": 708
+	}, {
+		"id": 166123,
+		"start_tick": 1390728480,
+		"end_tick": 1390728660,
+		"start_station_id": 40,
+		"end_station_id": 39,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.789625, -122.390264],
+		"duration": 217
+	}, {
+		"id": 166125,
+		"start_tick": 1390728780,
+		"end_tick": 1390729080,
+		"start_station_id": 39,
+		"end_station_id": 53,
+		"start_pos": [37.789625, -122.390264],
+		"end_pos": [37.782259, -122.392738],
+		"duration": 325
+	}, {
+		"id": 166128,
+		"start_tick": 1390728960,
+		"end_tick": 1390729620,
+		"start_station_id": 39,
+		"end_station_id": 49,
+		"start_pos": [37.789625, -122.390264],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 694
+	}, {
+		"id": 166129,
+		"start_tick": 1390728960,
+		"end_tick": 1390729020,
+		"start_station_id": 57,
+		"end_station_id": 57,
+		"start_pos": [37.784878, -122.401014],
+		"end_pos": [37.784878, -122.401014],
+		"duration": 74
+	}, {
+		"id": 166130,
+		"start_tick": 1390729440,
+		"end_tick": 1390730100,
+		"start_station_id": 57,
+		"end_station_id": 40,
+		"start_pos": [37.784878, -122.401014],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 672
+	}, {
+		"id": 166131,
+		"start_tick": 1390729500,
+		"end_tick": 1390730700,
+		"start_station_id": 49,
+		"end_station_id": 65,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 1227
+	}, {
+		"id": 166132,
+		"start_tick": 1390729680,
+		"end_tick": 1390730160,
+		"start_station_id": 44,
+		"end_station_id": 42,
+		"start_pos": [37.789756, -122.394643],
+		"end_pos": [37.783871, -122.408433],
+		"duration": 461
+	}, {
+		"id": 166133,
+		"start_tick": 1390729740,
+		"end_tick": 1390729920,
+		"start_station_id": 5,
+		"end_station_id": 12,
+		"start_pos": [37.336721, -121.894074],
+		"end_pos": [37.339301, -121.889937],
+		"duration": 202
+	}, {
+		"id": 166134,
+		"start_tick": 1390729860,
+		"end_tick": 1390730400,
+		"start_station_id": 56,
+		"end_station_id": 63,
+		"start_pos": [37.776619, -122.417385],
+		"end_pos": [37.794139, -122.394434],
+		"duration": 586
+	}, {
+		"id": 166135,
+		"start_tick": 1390730100,
+		"end_tick": 1390731180,
+		"start_station_id": 64,
+		"end_station_id": 49,
+		"start_pos": [37.7913, -122.399051],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 1076
+	}, {
+		"id": 166136,
+		"start_tick": 1390730160,
+		"end_tick": 1390737540,
+		"start_station_id": 40,
+		"end_station_id": 40,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 7393
+	}, {
+		"id": 166137,
+		"start_tick": 1390730160,
+		"end_tick": 1390730400,
+		"start_station_id": 62,
+		"end_station_id": 66,
+		"start_pos": [37.798522, -122.407245],
+		"end_pos": [37.789625, -122.400811],
+		"duration": 246
+	}, {
+		"id": 166138,
+		"start_tick": 1390730280,
+		"end_tick": 1390730880,
+		"start_station_id": 1,
+		"end_station_id": 5,
+		"start_pos": [37.329732, -121.901782],
+		"end_pos": [37.336721, -121.894074],
+		"duration": 603
+	}, {
+		"id": 166139,
+		"start_tick": 1390730280,
+		"end_tick": 1390730820,
+		"start_station_id": 50,
+		"end_station_id": 40,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 519
+	}, {
+		"id": 166140,
+		"start_tick": 1390730280,
+		"end_tick": 1390730940,
+		"start_station_id": 40,
+		"end_station_id": 65,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 663
+	}, {
+		"id": 166142,
+		"start_tick": 1390730760,
+		"end_tick": 1390731120,
+		"start_station_id": 55,
+		"end_station_id": 46,
+		"start_pos": [37.774814, -122.418954],
+		"end_pos": [37.781752, -122.405127],
+		"duration": 395
+	}, {
+		"id": 166143,
+		"start_tick": 1390730760,
+		"end_tick": 1390731120,
+		"start_station_id": 55,
+		"end_station_id": 46,
+		"start_pos": [37.774814, -122.418954],
+		"end_pos": [37.781752, -122.405127],
+		"duration": 387
+	}, {
+		"id": 166145,
+		"start_tick": 1390730820,
+		"end_tick": 1390732260,
+		"start_station_id": 43,
+		"end_station_id": 58,
+		"start_pos": [37.787152, -122.388013],
+		"end_pos": [37.776377, -122.39607],
+		"duration": 1432
+	}, {
+		"id": 166146,
+		"start_tick": 1390730820,
+		"end_tick": 1390732260,
+		"start_station_id": 43,
+		"end_station_id": 58,
+		"start_pos": [37.787152, -122.388013],
+		"end_pos": [37.776377, -122.39607],
+		"duration": 1421
+	}, {
+		"id": 166148,
+		"start_tick": 1390730940,
+		"end_tick": 1390732440,
+		"start_station_id": 65,
+		"end_station_id": 56,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.776619, -122.417385],
+		"duration": 1500
+	}, {
+		"id": 166150,
+		"start_tick": 1390731180,
+		"end_tick": 1390738440,
+		"start_station_id": 45,
+		"end_station_id": 40,
+		"start_pos": [37.792251, -122.397086],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 7257
+	}, {
+		"id": 166151,
+		"start_tick": 1390731360,
+		"end_tick": 1390738440,
+		"start_station_id": 45,
+		"end_station_id": 40,
+		"start_pos": [37.792251, -122.397086],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 7079
+	}, {
+		"id": 166152,
+		"start_tick": 1390731480,
+		"end_tick": 1390738500,
+		"start_station_id": 45,
+		"end_station_id": 40,
+		"start_pos": [37.792251, -122.397086],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 6994
+	}, {
+		"id": 166153,
+		"start_tick": 1390731660,
+		"end_tick": 1390732260,
+		"start_station_id": 61,
+		"end_station_id": 52,
+		"start_pos": [37.780356, -122.412919],
+		"end_pos": [37.786978, -122.398108],
+		"duration": 576
+	}, {
+		"id": 166154,
+		"start_tick": 1390731840,
+		"end_tick": 1390732260,
+		"start_station_id": 66,
+		"end_station_id": 42,
+		"start_pos": [37.789625, -122.400811],
+		"end_pos": [37.783871, -122.408433],
+		"duration": 412
+	}, {
+		"id": 166155,
+		"start_tick": 1390732260,
+		"end_tick": 1390733280,
+		"start_station_id": 50,
+		"end_station_id": 56,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.776619, -122.417385],
+		"duration": 1000
+	}, {
+		"id": 166156,
+		"start_tick": 1390732260,
+		"end_tick": 1390732800,
+		"start_station_id": 40,
+		"end_station_id": 50,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 523
+	}, {
+		"id": 166157,
+		"start_tick": 1390732320,
+		"end_tick": 1390733400,
+		"start_station_id": 58,
+		"end_station_id": 40,
+		"start_pos": [37.776377, -122.39607],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 1063
+	}, {
+		"id": 166158,
+		"start_tick": 1390732320,
+		"end_tick": 1390733580,
+		"start_station_id": 58,
+		"end_station_id": 49,
+		"start_pos": [37.776377, -122.39607],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 1285
+	}, {
+		"id": 166159,
+		"start_tick": 1390732320,
+		"end_tick": 1390734000,
+		"start_station_id": 59,
+		"end_station_id": 54,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.771058, -122.402717],
+		"duration": 1693
+	}, {
+		"id": 166160,
+		"start_tick": 1390732320,
+		"end_tick": 1390732560,
+		"start_station_id": 56,
+		"end_station_id": 61,
+		"start_pos": [37.776619, -122.417385],
+		"end_pos": [37.780356, -122.412919],
+		"duration": 199
+	}, {
+		"id": 166161,
+		"start_tick": 1390732440,
+		"end_tick": 1390732860,
+		"start_station_id": 43,
+		"end_station_id": 40,
+		"start_pos": [37.787152, -122.388013],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 372
+	}, {
+		"id": 166162,
+		"start_tick": 1390732500,
+		"end_tick": 1390733700,
+		"start_station_id": 53,
+		"end_station_id": 38,
+		"start_pos": [37.782259, -122.392738],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 1220
+	}, {
+		"id": 166166,
+		"start_tick": 1390732740,
+		"end_tick": 1390733280,
+		"start_station_id": 40,
+		"end_station_id": 49,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 527
+	}, {
+		"id": 166167,
+		"start_tick": 1390732860,
+		"end_tick": 1390733700,
+		"start_station_id": 55,
+		"end_station_id": 44,
+		"start_pos": [37.774814, -122.418954],
+		"end_pos": [37.789756, -122.394643],
+		"duration": 874
+	}, {
+		"id": 166168,
+		"start_tick": 1390732860,
+		"end_tick": 1390733340,
+		"start_station_id": 5,
+		"end_station_id": 1,
+		"start_pos": [37.336721, -121.894074],
+		"end_pos": [37.329732, -121.901782],
+		"duration": 480
+	}, {
+		"id": 166169,
+		"start_tick": 1390732920,
+		"end_tick": 1390733820,
+		"start_station_id": 43,
+		"end_station_id": 61,
+		"start_pos": [37.787152, -122.388013],
+		"end_pos": [37.780356, -122.412919],
+		"duration": 932
+	}, {
+		"id": 166170,
+		"start_tick": 1390732920,
+		"end_tick": 1390734000,
+		"start_station_id": 59,
+		"end_station_id": 40,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 1049
+	}, {
+		"id": 166171,
+		"start_tick": 1390732980,
+		"end_tick": 1390734000,
+		"start_station_id": 59,
+		"end_station_id": 40,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 1004
+	}, {
+		"id": 166172,
+		"start_tick": 1390732980,
+		"end_tick": 1390733400,
+		"start_station_id": 46,
+		"end_station_id": 61,
+		"start_pos": [37.781752, -122.405127],
+		"end_pos": [37.780356, -122.412919],
+		"duration": 404
+	}, {
+		"id": 166173,
+		"start_tick": 1390733040,
+		"end_tick": 1390733460,
+		"start_station_id": 46,
+		"end_station_id": 61,
+		"start_pos": [37.781752, -122.405127],
+		"end_pos": [37.780356, -122.412919],
+		"duration": 448
+	}, {
+		"id": 166177,
+		"start_tick": 1390733160,
+		"end_tick": 1390733820,
+		"start_station_id": 65,
+		"end_station_id": 54,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.771058, -122.402717],
+		"duration": 679
+	}, {
+		"id": 166178,
+		"start_tick": 1390733340,
+		"end_tick": 1390733640,
+		"start_station_id": 56,
+		"end_station_id": 42,
+		"start_pos": [37.776619, -122.417385],
+		"end_pos": [37.783871, -122.408433],
+		"duration": 307
+	}, {
+		"id": 166179,
+		"start_tick": 1390733460,
+		"end_tick": 1390733640,
+		"start_station_id": 33,
+		"end_station_id": 40,
+		"start_pos": [37.795001, -122.39997],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 170
+	}, {
+		"id": 166183,
+		"start_tick": 1390733580,
+		"end_tick": 1390734240,
+		"start_station_id": 40,
+		"end_station_id": 49,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 643
+	}, {
+		"id": 166184,
+		"start_tick": 1390733580,
+		"end_tick": 1390742460,
+		"start_station_id": 56,
+		"end_station_id": 55,
+		"start_pos": [37.776619, -122.417385],
+		"end_pos": [37.774814, -122.418954],
+		"duration": 8854
+	}, {
+		"id": 166186,
+		"start_tick": 1390733940,
+		"end_tick": 1390734780,
+		"start_station_id": 59,
+		"end_station_id": 63,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.794139, -122.394434],
+		"duration": 800
+	}, {
+		"id": 166187,
+		"start_tick": 1390734000,
+		"end_tick": 1390734780,
+		"start_station_id": 59,
+		"end_station_id": 63,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.794139, -122.394434],
+		"duration": 784
+	}, {
+		"id": 166189,
+		"start_tick": 1390734060,
+		"end_tick": 1390734360,
+		"start_station_id": 60,
+		"end_station_id": 51,
+		"start_pos": [37.788446, -122.408499],
+		"end_pos": [37.785299, -122.396236],
+		"duration": 275
+	}, {
+		"id": 166190,
+		"start_tick": 1390734060,
+		"end_tick": 1390735980,
+		"start_station_id": 54,
+		"end_station_id": 50,
+		"start_pos": [37.771058, -122.402717],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 1923
+	}, {
+		"id": 166192,
+		"start_tick": 1390734120,
+		"end_tick": 1390735620,
+		"start_station_id": 57,
+		"end_station_id": 54,
+		"start_pos": [37.784878, -122.401014],
+		"end_pos": [37.771058, -122.402717],
+		"duration": 1465
+	}, {
+		"id": 166193,
+		"start_tick": 1390734120,
+		"end_tick": 1390734300,
+		"start_station_id": 45,
+		"end_station_id": 40,
+		"start_pos": [37.792251, -122.397086],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 144
+	}, {
+		"id": 166197,
+		"start_tick": 1390734660,
+		"end_tick": 1390736100,
+		"start_station_id": 56,
+		"end_station_id": 43,
+		"start_pos": [37.776619, -122.417385],
+		"end_pos": [37.787152, -122.388013],
+		"duration": 1434
+	}, {
+		"id": 166199,
+		"start_tick": 1390734720,
+		"end_tick": 1390737300,
+		"start_station_id": 35,
+		"end_station_id": 49,
+		"start_pos": [37.794231, -122.402923],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 2593
+	}, {
+		"id": 166200,
+		"start_tick": 1390734780,
+		"end_tick": 1390735080,
+		"start_station_id": 52,
+		"end_station_id": 65,
+		"start_pos": [37.786978, -122.398108],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 302
+	}, {
+		"id": 166201,
+		"start_tick": 1390734840,
+		"end_tick": 1390736100,
+		"start_station_id": 56,
+		"end_station_id": 43,
+		"start_pos": [37.776619, -122.417385],
+		"end_pos": [37.787152, -122.388013],
+		"duration": 1237
+	}, {
+		"id": 166202,
+		"start_tick": 1390734900,
+		"end_tick": 1390735860,
+		"start_station_id": 48,
+		"end_station_id": 58,
+		"start_pos": [37.781332, -122.418603],
+		"end_pos": [37.776377, -122.39607],
+		"duration": 931
+	}, {
+		"id": 166203,
+		"start_tick": 1390734900,
+		"end_tick": 1390735380,
+		"start_station_id": 47,
+		"end_station_id": 65,
+		"start_pos": [37.77865, -122.418235],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 458
+	}, {
+		"id": 166206,
+		"start_tick": 1390734900,
+		"end_tick": 1390736520,
+		"start_station_id": 58,
+		"end_station_id": 40,
+		"start_pos": [37.776377, -122.39607],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 1568
+	}, {
+		"id": 166204,
+		"start_tick": 1390734960,
+		"end_tick": 1390735920,
+		"start_station_id": 61,
+		"end_station_id": 49,
+		"start_pos": [37.780356, -122.412919],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 988
+	}, {
+		"id": 166205,
+		"start_tick": 1390734960,
+		"end_tick": 1390735860,
+		"start_station_id": 56,
+		"end_station_id": 42,
+		"start_pos": [37.776619, -122.417385],
+		"end_pos": [37.783871, -122.408433],
+		"duration": 946
+	}, {
+		"id": 166207,
+		"start_tick": 1390734960,
+		"end_tick": 1390735920,
+		"start_station_id": 56,
+		"end_station_id": 42,
+		"start_pos": [37.776619, -122.417385],
+		"end_pos": [37.783871, -122.408433],
+		"duration": 945
+	}, {
+		"id": 166213,
+		"start_tick": 1390735200,
+		"end_tick": 1390736280,
+		"start_station_id": 50,
+		"end_station_id": 55,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.774814, -122.418954],
+		"duration": 1039
+	}, {
+		"id": 166214,
+		"start_tick": 1390735260,
+		"end_tick": 1390736280,
+		"start_station_id": 25,
+		"end_station_id": 22,
+		"start_pos": [37.400443, -122.108338],
+		"end_pos": [37.394358, -122.076713],
+		"duration": 1007
+	}, {
+		"id": 166215,
+		"start_tick": 1390735320,
+		"end_tick": 1390735980,
+		"start_station_id": 62,
+		"end_station_id": 57,
+		"start_pos": [37.798522, -122.407245],
+		"end_pos": [37.784878, -122.401014],
+		"duration": 688
+	}, {
+		"id": 166216,
+		"start_tick": 1390735380,
+		"end_tick": 1390736340,
+		"start_station_id": 49,
+		"end_station_id": 43,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.787152, -122.388013],
+		"duration": 924
+	}, {
+		"id": 166217,
+		"start_tick": 1390735440,
+		"end_tick": 1390736340,
+		"start_station_id": 49,
+		"end_station_id": 43,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.787152, -122.388013],
+		"duration": 949
+	}, {
+		"id": 166218,
+		"start_tick": 1390735560,
+		"end_tick": 1390737480,
+		"start_station_id": 61,
+		"end_station_id": 38,
+		"start_pos": [37.780356, -122.412919],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 1925
+	}, {
+		"id": 166220,
+		"start_tick": 1390736040,
+		"end_tick": 1390737360,
+		"start_station_id": 58,
+		"end_station_id": 40,
+		"start_pos": [37.776377, -122.39607],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 1318
+	}, {
+		"id": 166221,
+		"start_tick": 1390736040,
+		"end_tick": 1390736280,
+		"start_station_id": 50,
+		"end_station_id": 43,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.787152, -122.388013],
+		"duration": 278
+	}, {
+		"id": 166222,
+		"start_tick": 1390736220,
+		"end_tick": 1390736940,
+		"start_station_id": 51,
+		"end_station_id": 61,
+		"start_pos": [37.785299, -122.396236],
+		"end_pos": [37.780356, -122.412919],
+		"duration": 708
+	}, {
+		"id": 166223,
+		"start_tick": 1390736280,
+		"end_tick": 1390739400,
+		"start_station_id": 40,
+		"end_station_id": 59,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 3136
+	}, {
+		"id": 166224,
+		"start_tick": 1390736280,
+		"end_tick": 1390739400,
+		"start_station_id": 40,
+		"end_station_id": 59,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 3108
+	}, {
+		"id": 166225,
+		"start_tick": 1390736280,
+		"end_tick": 1390737180,
+		"start_station_id": 54,
+		"end_station_id": 41,
+		"start_pos": [37.771058, -122.402717],
+		"end_pos": [37.791464, -122.391034],
+		"duration": 851
+	}, {
+		"id": 166226,
+		"start_tick": 1390736340,
+		"end_tick": 1390736460,
+		"start_station_id": 43,
+		"end_station_id": 39,
+		"start_pos": [37.787152, -122.388013],
+		"end_pos": [37.789625, -122.390264],
+		"duration": 141
+	}, {
+		"id": 166227,
+		"start_tick": 1390736340,
+		"end_tick": 1390736880,
+		"start_station_id": 40,
+		"end_station_id": 65,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 545
+	}, {
+		"id": 166228,
+		"start_tick": 1390736400,
+		"end_tick": 1390737300,
+		"start_station_id": 40,
+		"end_station_id": 34,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.79728, -122.398436],
+		"duration": 910
+	}, {
+		"id": 166229,
+		"start_tick": 1390736460,
+		"end_tick": 1390737000,
+		"start_station_id": 59,
+		"end_station_id": 37,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.788975, -122.403452],
+		"duration": 589
+	}, {
+		"id": 166230,
+		"start_tick": 1390736460,
+		"end_tick": 1390737540,
+		"start_station_id": 65,
+		"end_station_id": 59,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 1076
+	}, {
+		"id": 166231,
+		"start_tick": 1390736460,
+		"end_tick": 1390737300,
+		"start_station_id": 39,
+		"end_station_id": 68,
+		"start_pos": [37.789625, -122.390264],
+		"end_pos": [37.798541, -122.400862],
+		"duration": 841
+	}, {
+		"id": 166232,
+		"start_tick": 1390736460,
+		"end_tick": 1390737120,
+		"start_station_id": 59,
+		"end_station_id": 39,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.789625, -122.390264],
+		"duration": 627
+	}, {
+		"id": 166233,
+		"start_tick": 1390736580,
+		"end_tick": 1390737420,
+		"start_station_id": 54,
+		"end_station_id": 56,
+		"start_pos": [37.771058, -122.402717],
+		"end_pos": [37.776619, -122.417385],
+		"duration": 824
+	}, {
+		"id": 166234,
+		"start_tick": 1390736640,
+		"end_tick": 1390737360,
+		"start_station_id": 14,
+		"end_station_id": 1,
+		"start_pos": [37.333955, -121.877349],
+		"end_pos": [37.329732, -121.901782],
+		"duration": 690
+	}, {
+		"id": 166235,
+		"start_tick": 1390736640,
+		"end_tick": 1390737360,
+		"start_station_id": 14,
+		"end_station_id": 1,
+		"start_pos": [37.333955, -121.877349],
+		"end_pos": [37.329732, -121.901782],
+		"duration": 690
+	}, {
+		"id": 166239,
+		"start_tick": 1390736700,
+		"end_tick": 1390737780,
+		"start_station_id": 65,
+		"end_station_id": 50,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 1099
+	}, {
+		"id": 166236,
+		"start_tick": 1390736820,
+		"end_tick": 1390737300,
+		"start_station_id": 49,
+		"end_station_id": 44,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.789756, -122.394643],
+		"duration": 482
+	}, {
+		"id": 166237,
+		"start_tick": 1390736880,
+		"end_tick": 1390737360,
+		"start_station_id": 35,
+		"end_station_id": 37,
+		"start_pos": [37.794231, -122.402923],
+		"end_pos": [37.788975, -122.403452],
+		"duration": 512
+	}, {
+		"id": 166238,
+		"start_tick": 1390736880,
+		"end_tick": 1390737360,
+		"start_station_id": 35,
+		"end_station_id": 37,
+		"start_pos": [37.794231, -122.402923],
+		"end_pos": [37.788975, -122.403452],
+		"duration": 482
+	}, {
+		"id": 166240,
+		"start_tick": 1390737120,
+		"end_tick": 1390737300,
+		"start_station_id": 65,
+		"end_station_id": 57,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.784878, -122.401014],
+		"duration": 224
+	}, {
+		"id": 166241,
+		"start_tick": 1390737120,
+		"end_tick": 1390740360,
+		"start_station_id": 42,
+		"end_station_id": 40,
+		"start_pos": [37.783871, -122.408433],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 3216
+	}, {
+		"id": 166242,
+		"start_tick": 1390737240,
+		"end_tick": 1390737720,
+		"start_station_id": 45,
+		"end_station_id": 50,
+		"start_pos": [37.792251, -122.397086],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 488
+	}, {
+		"id": 166243,
+		"start_tick": 1390737360,
+		"end_tick": 1390738680,
+		"start_station_id": 49,
+		"end_station_id": 50,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 1314
+	}, {
+		"id": 166244,
+		"start_tick": 1390737360,
+		"end_tick": 1390738680,
+		"start_station_id": 49,
+		"end_station_id": 50,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 1280
+	}, {
+		"id": 166245,
+		"start_tick": 1390737420,
+		"end_tick": 1390738620,
+		"start_station_id": 40,
+		"end_station_id": 48,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.781332, -122.418603],
+		"duration": 1160
+	}, {
+		"id": 166246,
+		"start_tick": 1390737480,
+		"end_tick": 1390738080,
+		"start_station_id": 56,
+		"end_station_id": 55,
+		"start_pos": [37.776619, -122.417385],
+		"end_pos": [37.774814, -122.418954],
+		"duration": 604
+	}, {
+		"id": 166247,
+		"start_tick": 1390737540,
+		"end_tick": 1390737780,
+		"start_station_id": 51,
+		"end_station_id": 57,
+		"start_pos": [37.785299, -122.396236],
+		"end_pos": [37.784878, -122.401014],
+		"duration": 242
+	}, {
+		"id": 166248,
+		"start_tick": 1390737660,
+		"end_tick": 1390738200,
+		"start_station_id": 40,
+		"end_station_id": 57,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.784878, -122.401014],
+		"duration": 572
+	}, {
+		"id": 166249,
+		"start_tick": 1390737660,
+		"end_tick": 1390739280,
+		"start_station_id": 49,
+		"end_station_id": 46,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.781752, -122.405127],
+		"duration": 1628
+	}, {
+		"id": 166250,
+		"start_tick": 1390738140,
+		"end_tick": 1390738620,
+		"start_station_id": 44,
+		"end_station_id": 65,
+		"start_pos": [37.789756, -122.394643],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 499
+	}, {
+		"id": 166251,
+		"start_tick": 1390738140,
+		"end_tick": 1390739580,
+		"start_station_id": 55,
+		"end_station_id": 55,
+		"start_pos": [37.774814, -122.418954],
+		"end_pos": [37.774814, -122.418954],
+		"duration": 1438
+	}, {
+		"id": 166252,
+		"start_tick": 1390738140,
+		"end_tick": 1390740000,
+		"start_station_id": 38,
+		"end_station_id": 38,
+		"start_pos": [37.799953, -122.398525],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 1852
+	}, {
+		"id": 166253,
+		"start_tick": 1390738260,
+		"end_tick": 1390738920,
+		"start_station_id": 56,
+		"end_station_id": 56,
+		"start_pos": [37.776619, -122.417385],
+		"end_pos": [37.776619, -122.417385],
+		"duration": 640
+	}, {
+		"id": 166254,
+		"start_tick": 1390738560,
+		"end_tick": 1390740360,
+		"start_station_id": 43,
+		"end_station_id": 54,
+		"start_pos": [37.787152, -122.388013],
+		"end_pos": [37.771058, -122.402717],
+		"duration": 1841
+	}, {
+		"id": 166255,
+		"start_tick": 1390738560,
+		"end_tick": 1390740360,
+		"start_station_id": 43,
+		"end_station_id": 54,
+		"start_pos": [37.787152, -122.388013],
+		"end_pos": [37.771058, -122.402717],
+		"duration": 1796
+	}, {
+		"id": 166256,
+		"start_tick": 1390738560,
+		"end_tick": 1390738980,
+		"start_station_id": 42,
+		"end_station_id": 56,
+		"start_pos": [37.783871, -122.408433],
+		"end_pos": [37.776619, -122.417385],
+		"duration": 381
+	}, {
+		"id": 166257,
+		"start_tick": 1390738620,
+		"end_tick": 1390741800,
+		"start_station_id": 24,
+		"end_station_id": 24,
+		"start_pos": [37.390277, -122.066553],
+		"end_pos": [37.390277, -122.066553],
+		"duration": 3232
+	}, {
+		"id": 166258,
+		"start_tick": 1390738620,
+		"end_tick": 1390741800,
+		"start_station_id": 24,
+		"end_station_id": 24,
+		"start_pos": [37.390277, -122.066553],
+		"end_pos": [37.390277, -122.066553],
+		"duration": 3193
+	}, {
+		"id": 166259,
+		"start_tick": 1390738680,
+		"end_tick": 1390739340,
+		"start_station_id": 27,
+		"end_station_id": 22,
+		"start_pos": [37.400241, -122.099076],
+		"end_pos": [37.394358, -122.076713],
+		"duration": 659
+	}, {
+		"id": 166260,
+		"start_tick": 1390738740,
+		"end_tick": 1390740000,
+		"start_station_id": 48,
+		"end_station_id": 39,
+		"start_pos": [37.781332, -122.418603],
+		"end_pos": [37.789625, -122.390264],
+		"duration": 1278
+	}, {
+		"id": 166263,
+		"start_tick": 1390739040,
+		"end_tick": 1390739460,
+		"start_station_id": 60,
+		"end_station_id": 33,
+		"start_pos": [37.788446, -122.408499],
+		"end_pos": [37.795001, -122.39997],
+		"duration": 421
+	}, {
+		"id": 166264,
+		"start_tick": 1390739040,
+		"end_tick": 1390740600,
+		"start_station_id": 56,
+		"end_station_id": 40,
+		"start_pos": [37.776619, -122.417385],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 1559
+	}, {
+		"id": 166265,
+		"start_tick": 1390739100,
+		"end_tick": 1390740660,
+		"start_station_id": 56,
+		"end_station_id": 40,
+		"start_pos": [37.776619, -122.417385],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 1569
+	}, {
+		"id": 166266,
+		"start_tick": 1390739100,
+		"end_tick": 1390739880,
+		"start_station_id": 61,
+		"end_station_id": 61,
+		"start_pos": [37.780356, -122.412919],
+		"end_pos": [37.780356, -122.412919],
+		"duration": 797
+	}, {
+		"id": 166267,
+		"start_tick": 1390739160,
+		"end_tick": 1390739460,
+		"start_station_id": 66,
+		"end_station_id": 37,
+		"start_pos": [37.789625, -122.400811],
+		"end_pos": [37.788975, -122.403452],
+		"duration": 270
+	}, {
+		"id": 166268,
+		"start_tick": 1390739460,
+		"end_tick": 1390739880,
+		"start_station_id": 61,
+		"end_station_id": 61,
+		"start_pos": [37.780356, -122.412919],
+		"end_pos": [37.780356, -122.412919],
+		"duration": 466
+	}, {
+		"id": 166270,
+		"start_tick": 1390739520,
+		"end_tick": 1390740840,
+		"start_station_id": 59,
+		"end_station_id": 38,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 1321
+	}, {
+		"id": 166271,
+		"start_tick": 1390739520,
+		"end_tick": 1390740840,
+		"start_station_id": 59,
+		"end_station_id": 38,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 1307
+	}, {
+		"id": 166273,
+		"start_tick": 1390739700,
+		"end_tick": 1390740480,
+		"start_station_id": 37,
+		"end_station_id": 62,
+		"start_pos": [37.788975, -122.403452],
+		"end_pos": [37.798522, -122.407245],
+		"duration": 774
+	}, {
+		"id": 166272,
+		"start_tick": 1390739700,
+		"end_tick": 1390739880,
+		"start_station_id": 61,
+		"end_station_id": 61,
+		"start_pos": [37.780356, -122.412919],
+		"end_pos": [37.780356, -122.412919],
+		"duration": 214
+	}, {
+		"id": 166274,
+		"start_tick": 1390739760,
+		"end_tick": 1390740300,
+		"start_station_id": 38,
+		"end_station_id": 36,
+		"start_pos": [37.799953, -122.398525],
+		"end_pos": [37.795425, -122.404767],
+		"duration": 514
+	}, {
+		"id": 166275,
+		"start_tick": 1390739760,
+		"end_tick": 1390740300,
+		"start_station_id": 38,
+		"end_station_id": 36,
+		"start_pos": [37.799953, -122.398525],
+		"end_pos": [37.795425, -122.404767],
+		"duration": 508
+	}, {
+		"id": 166276,
+		"start_tick": 1390739820,
+		"end_tick": 1390740420,
+		"start_station_id": 34,
+		"end_station_id": 49,
+		"start_pos": [37.79728, -122.398436],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 579
+	}, {
+		"id": 166277,
+		"start_tick": 1390739880,
+		"end_tick": 1390740180,
+		"start_station_id": 35,
+		"end_station_id": 66,
+		"start_pos": [37.794231, -122.402923],
+		"end_pos": [37.789625, -122.400811],
+		"duration": 325
+	}, {
+		"id": 166279,
+		"start_tick": 1390739940,
+		"end_tick": 1390740480,
+		"start_station_id": 37,
+		"end_station_id": 62,
+		"start_pos": [37.788975, -122.403452],
+		"end_pos": [37.798522, -122.407245],
+		"duration": 545
+	}, {
+		"id": 166281,
+		"start_tick": 1390740060,
+		"end_tick": 1390740720,
+		"start_station_id": 46,
+		"end_station_id": 50,
+		"start_pos": [37.781752, -122.405127],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 655
+	}, {
+		"id": 166282,
+		"start_tick": 1390740060,
+		"end_tick": 1390744980,
+		"start_station_id": 61,
+		"end_station_id": 49,
+		"start_pos": [37.780356, -122.412919],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 4897
+	}, {
+		"id": 166283,
+		"start_tick": 1390740060,
+		"end_tick": 1390741020,
+		"start_station_id": 37,
+		"end_station_id": 54,
+		"start_pos": [37.788975, -122.403452],
+		"end_pos": [37.771058, -122.402717],
+		"duration": 919
+	}, {
+		"id": 166284,
+		"start_tick": 1390740060,
+		"end_tick": 1390740180,
+		"start_station_id": 64,
+		"end_station_id": 66,
+		"start_pos": [37.7913, -122.399051],
+		"end_pos": [37.789625, -122.400811],
+		"duration": 90
+	}, {
+		"id": 166285,
+		"start_tick": 1390740120,
+		"end_tick": 1390744980,
+		"start_station_id": 61,
+		"end_station_id": 49,
+		"start_pos": [37.780356, -122.412919],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 4825
+	}, {
+		"id": 166286,
+		"start_tick": 1390740180,
+		"end_tick": 1390740660,
+		"start_station_id": 42,
+		"end_station_id": 58,
+		"start_pos": [37.783871, -122.408433],
+		"end_pos": [37.776377, -122.39607],
+		"duration": 528
+	}, {
+		"id": 166288,
+		"start_tick": 1390740180,
+		"end_tick": 1390741440,
+		"start_station_id": 38,
+		"end_station_id": 43,
+		"start_pos": [37.799953, -122.398525],
+		"end_pos": [37.787152, -122.388013],
+		"duration": 1281
+	}, {
+		"id": 166287,
+		"start_tick": 1390740180,
+		"end_tick": 1390744980,
+		"start_station_id": 61,
+		"end_station_id": 49,
+		"start_pos": [37.780356, -122.412919],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 4811
+	}, {
+		"id": 166290,
+		"start_tick": 1390740240,
+		"end_tick": 1390740960,
+		"start_station_id": 40,
+		"end_station_id": 49,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 730
+	}, {
+		"id": 166291,
+		"start_tick": 1390740300,
+		"end_tick": 1390741020,
+		"start_station_id": 40,
+		"end_station_id": 49,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 712
+	}, {
+		"id": 166294,
+		"start_tick": 1390740420,
+		"end_tick": 1390740720,
+		"start_station_id": 62,
+		"end_station_id": 49,
+		"start_pos": [37.798522, -122.407245],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 298
+	}, {
+		"id": 166295,
+		"start_tick": 1390740540,
+		"end_tick": 1390741560,
+		"start_station_id": 66,
+		"end_station_id": 35,
+		"start_pos": [37.789625, -122.400811],
+		"end_pos": [37.794231, -122.402923],
+		"duration": 1018
+	}, {
+		"id": 166296,
+		"start_tick": 1390740600,
+		"end_tick": 1390741380,
+		"start_station_id": 62,
+		"end_station_id": 38,
+		"start_pos": [37.798522, -122.407245],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 766
+	}, {
+		"id": 166297,
+		"start_tick": 1390740600,
+		"end_tick": 1390741380,
+		"start_station_id": 62,
+		"end_station_id": 38,
+		"start_pos": [37.798522, -122.407245],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 776
+	}, {
+		"id": 166298,
+		"start_tick": 1390740720,
+		"end_tick": 1390741380,
+		"start_station_id": 22,
+		"end_station_id": 27,
+		"start_pos": [37.394358, -122.076713],
+		"end_pos": [37.400241, -122.099076],
+		"duration": 650
+	}, {
+		"id": 166300,
+		"start_tick": 1390740960,
+		"end_tick": 1390741320,
+		"start_station_id": 51,
+		"end_station_id": 37,
+		"start_pos": [37.785299, -122.396236],
+		"end_pos": [37.788975, -122.403452],
+		"duration": 361
+	}, {
+		"id": 166303,
+		"start_tick": 1390741020,
+		"end_tick": 1390741440,
+		"start_station_id": 65,
+		"end_station_id": 61,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.780356, -122.412919],
+		"duration": 399
+	}, {
+		"id": 166301,
+		"start_tick": 1390741140,
+		"end_tick": 1390741800,
+		"start_station_id": 49,
+		"end_station_id": 50,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 655
+	}, {
+		"id": 166302,
+		"start_tick": 1390741140,
+		"end_tick": 1390741800,
+		"start_station_id": 49,
+		"end_station_id": 50,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 641
+	}, {
+		"id": 166304,
+		"start_tick": 1390741140,
+		"end_tick": 1390741740,
+		"start_station_id": 12,
+		"end_station_id": 5,
+		"start_pos": [37.339301, -121.889937],
+		"end_pos": [37.336721, -121.894074],
+		"duration": 573
+	}, {
+		"id": 166305,
+		"start_tick": 1390741140,
+		"end_tick": 1390741500,
+		"start_station_id": 56,
+		"end_station_id": 42,
+		"start_pos": [37.776619, -122.417385],
+		"end_pos": [37.783871, -122.408433],
+		"duration": 365
+	}, {
+		"id": 166306,
+		"start_tick": 1390741320,
+		"end_tick": 1390741920,
+		"start_station_id": 62,
+		"end_station_id": 65,
+		"start_pos": [37.798522, -122.407245],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 631
+	}, {
+		"id": 166309,
+		"start_tick": 1390741440,
+		"end_tick": 1390752360,
+		"start_station_id": 59,
+		"end_station_id": 59,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 10877
+	}, {
+		"id": 166310,
+		"start_tick": 1390741500,
+		"end_tick": 1390741860,
+		"start_station_id": 38,
+		"end_station_id": 49,
+		"start_pos": [37.799953, -122.398525],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 352
+	}, {
+		"id": 166311,
+		"start_tick": 1390741500,
+		"end_tick": 1390741860,
+		"start_station_id": 38,
+		"end_station_id": 49,
+		"start_pos": [37.799953, -122.398525],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 340
+	}, {
+		"id": 166313,
+		"start_tick": 1390741560,
+		"end_tick": 1390743000,
+		"start_station_id": 43,
+		"end_station_id": 46,
+		"start_pos": [37.787152, -122.388013],
+		"end_pos": [37.781752, -122.405127],
+		"duration": 1447
+	}, {
+		"id": 166314,
+		"start_tick": 1390741560,
+		"end_tick": 1390742400,
+		"start_station_id": 49,
+		"end_station_id": 35,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.794231, -122.402923],
+		"duration": 842
+	}, {
+		"id": 166315,
+		"start_tick": 1390741560,
+		"end_tick": 1390741920,
+		"start_station_id": 50,
+		"end_station_id": 66,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.789625, -122.400811],
+		"duration": 375
+	}, {
+		"id": 166317,
+		"start_tick": 1390741980,
+		"end_tick": 1390742700,
+		"start_station_id": 40,
+		"end_station_id": 65,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 730
+	}, {
+		"id": 166318,
+		"start_tick": 1390742280,
+		"end_tick": 1390753140,
+		"start_station_id": 56,
+		"end_station_id": 38,
+		"start_pos": [37.776619, -122.417385],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 10841
+	}, {
+		"id": 166319,
+		"start_tick": 1390742340,
+		"end_tick": 1390743180,
+		"start_station_id": 46,
+		"end_station_id": 53,
+		"start_pos": [37.781752, -122.405127],
+		"end_pos": [37.782259, -122.392738],
+		"duration": 870
+	}, {
+		"id": 166320,
+		"start_tick": 1390742340,
+		"end_tick": 1390753140,
+		"start_station_id": 56,
+		"end_station_id": 38,
+		"start_pos": [37.776619, -122.417385],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 10758
+	}, {
+		"id": 166321,
+		"start_tick": 1390742520,
+		"end_tick": 1390742760,
+		"start_station_id": 35,
+		"end_station_id": 33,
+		"start_pos": [37.794231, -122.402923],
+		"end_pos": [37.795001, -122.39997],
+		"duration": 271
+	}, {
+		"id": 166322,
+		"start_tick": 1390742520,
+		"end_tick": 1390743180,
+		"start_station_id": 46,
+		"end_station_id": 53,
+		"start_pos": [37.781752, -122.405127],
+		"end_pos": [37.782259, -122.392738],
+		"duration": 646
+	}, {
+		"id": 166323,
+		"start_tick": 1390742520,
+		"end_tick": 1390743900,
+		"start_station_id": 40,
+		"end_station_id": 49,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 1373
+	}, {
+		"id": 166324,
+		"start_tick": 1390742820,
+		"end_tick": 1390743000,
+		"start_station_id": 51,
+		"end_station_id": 53,
+		"start_pos": [37.785299, -122.396236],
+		"end_pos": [37.782259, -122.392738],
+		"duration": 149
+	}, {
+		"id": 166325,
+		"start_tick": 1390742880,
+		"end_tick": 1390743660,
+		"start_station_id": 50,
+		"end_station_id": 38,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 784
+	}, {
+		"id": 166326,
+		"start_tick": 1390742940,
+		"end_tick": 1390758840,
+		"start_station_id": 40,
+		"end_station_id": 49,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 15886
+	}, {
+		"id": 166327,
+		"start_tick": 1390742940,
+		"end_tick": 1390743360,
+		"start_station_id": 65,
+		"end_station_id": 63,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.794139, -122.394434],
+		"duration": 424
+	}, {
+		"id": 166328,
+		"start_tick": 1390742940,
+		"end_tick": 1390743300,
+		"start_station_id": 66,
+		"end_station_id": 53,
+		"start_pos": [37.789625, -122.400811],
+		"end_pos": [37.782259, -122.392738],
+		"duration": 370
+	}, {
+		"id": 166329,
+		"start_tick": 1390742940,
+		"end_tick": 1390758780,
+		"start_station_id": 40,
+		"end_station_id": 49,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 15821
+	}, {
+		"id": 166330,
+		"start_tick": 1390743000,
+		"end_tick": 1390743240,
+		"start_station_id": 54,
+		"end_station_id": 59,
+		"start_pos": [37.771058, -122.402717],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 279
+	}, {
+		"id": 166331,
+		"start_tick": 1390743000,
+		"end_tick": 1390743240,
+		"start_station_id": 54,
+		"end_station_id": 59,
+		"start_pos": [37.771058, -122.402717],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 256
+	}, {
+		"id": 166332,
+		"start_tick": 1390743000,
+		"end_tick": 1390743660,
+		"start_station_id": 50,
+		"end_station_id": 38,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 666
+	}, {
+		"id": 166333,
+		"start_tick": 1390743060,
+		"end_tick": 1390743660,
+		"start_station_id": 50,
+		"end_station_id": 64,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.7913, -122.399051],
+		"duration": 607
+	}, {
+		"id": 166334,
+		"start_tick": 1390743180,
+		"end_tick": 1390744080,
+		"start_station_id": 57,
+		"end_station_id": 57,
+		"start_pos": [37.784878, -122.401014],
+		"end_pos": [37.784878, -122.401014],
+		"duration": 928
+	}, {
+		"id": 166336,
+		"start_tick": 1390743300,
+		"end_tick": 1390744020,
+		"start_station_id": 65,
+		"end_station_id": 49,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 732
+	}, {
+		"id": 166337,
+		"start_tick": 1390743300,
+		"end_tick": 1390744020,
+		"start_station_id": 65,
+		"end_station_id": 49,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 734
+	}, {
+		"id": 166339,
+		"start_tick": 1390743360,
+		"end_tick": 1390744380,
+		"start_station_id": 40,
+		"end_station_id": 63,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.794139, -122.394434],
+		"duration": 1033
+	}, {
+		"id": 166340,
+		"start_tick": 1390743480,
+		"end_tick": 1390744500,
+		"start_station_id": 59,
+		"end_station_id": 48,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.781332, -122.418603],
+		"duration": 1014
+	}, {
+		"id": 166341,
+		"start_tick": 1390743480,
+		"end_tick": 1390744500,
+		"start_station_id": 59,
+		"end_station_id": 48,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.781332, -122.418603],
+		"duration": 989
+	}, {
+		"id": 166343,
+		"start_tick": 1390743600,
+		"end_tick": 1390743900,
+		"start_station_id": 51,
+		"end_station_id": 46,
+		"start_pos": [37.785299, -122.396236],
+		"end_pos": [37.781752, -122.405127],
+		"duration": 269
+	}, {
+		"id": 166344,
+		"start_tick": 1390743600,
+		"end_tick": 1390745700,
+		"start_station_id": 40,
+		"end_station_id": 65,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 2099
+	}, {
+		"id": 166345,
+		"start_tick": 1390743660,
+		"end_tick": 1390748460,
+		"start_station_id": 13,
+		"end_station_id": 13,
+		"start_pos": [37.332692, -121.900084],
+		"end_pos": [37.332692, -121.900084],
+		"duration": 4802
+	}, {
+		"id": 166346,
+		"start_tick": 1390743780,
+		"end_tick": 1390748460,
+		"start_station_id": 13,
+		"end_station_id": 13,
+		"start_pos": [37.332692, -121.900084],
+		"end_pos": [37.332692, -121.900084],
+		"duration": 4672
+	}, {
+		"id": 166347,
+		"start_tick": 1390743840,
+		"end_tick": 1390744500,
+		"start_station_id": 59,
+		"end_station_id": 51,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.785299, -122.396236],
+		"duration": 674
+	}, {
+		"id": 166348,
+		"start_tick": 1390743840,
+		"end_tick": 1390745160,
+		"start_station_id": 59,
+		"end_station_id": 59,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 1310
+	}, {
+		"id": 166349,
+		"start_tick": 1390743960,
+		"end_tick": 1390745160,
+		"start_station_id": 49,
+		"end_station_id": 58,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.776377, -122.39607],
+		"duration": 1173
+	}, {
+		"id": 166350,
+		"start_tick": 1390744020,
+		"end_tick": 1390745160,
+		"start_station_id": 49,
+		"end_station_id": 58,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.776377, -122.39607],
+		"duration": 1153
+	}, {
+		"id": 166351,
+		"start_tick": 1390744080,
+		"end_tick": 1390744320,
+		"start_station_id": 40,
+		"end_station_id": 39,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.789625, -122.390264],
+		"duration": 217
+	}, {
+		"id": 166352,
+		"start_tick": 1390744080,
+		"end_tick": 1390744440,
+		"start_station_id": 50,
+		"end_station_id": 66,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.789625, -122.400811],
+		"duration": 369
+	}, {
+		"id": 166353,
+		"start_tick": 1390744200,
+		"end_tick": 1390744980,
+		"start_station_id": 65,
+		"end_station_id": 59,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 766
+	}, {
+		"id": 166354,
+		"start_tick": 1390744260,
+		"end_tick": 1390744980,
+		"start_station_id": 65,
+		"end_station_id": 59,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 742
+	}, {
+		"id": 166355,
+		"start_tick": 1390744260,
+		"end_tick": 1390744680,
+		"start_station_id": 33,
+		"end_station_id": 45,
+		"start_pos": [37.795001, -122.39997],
+		"end_pos": [37.792251, -122.397086],
+		"duration": 406
+	}, {
+		"id": 166356,
+		"start_tick": 1390744500,
+		"end_tick": 1390744980,
+		"start_station_id": 54,
+		"end_station_id": 46,
+		"start_pos": [37.771058, -122.402717],
+		"end_pos": [37.781752, -122.405127],
+		"duration": 473
+	}, {
+		"id": 166357,
+		"start_tick": 1390744560,
+		"end_tick": 1390745760,
+		"start_station_id": 63,
+		"end_station_id": 65,
+		"start_pos": [37.794139, -122.394434],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 1195
+	}, {
+		"id": 166358,
+		"start_tick": 1390744620,
+		"end_tick": 1390751880,
+		"start_station_id": 62,
+		"end_station_id": 33,
+		"start_pos": [37.798522, -122.407245],
+		"end_pos": [37.795001, -122.39997],
+		"duration": 7282
+	}, {
+		"id": 166359,
+		"start_tick": 1390744620,
+		"end_tick": 1390751880,
+		"start_station_id": 62,
+		"end_station_id": 33,
+		"start_pos": [37.798522, -122.407245],
+		"end_pos": [37.795001, -122.39997],
+		"duration": 7228
+	}, {
+		"id": 166360,
+		"start_tick": 1390744860,
+		"end_tick": 1390745040,
+		"start_station_id": 54,
+		"end_station_id": 59,
+		"start_pos": [37.771058, -122.402717],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 184
+	}, {
+		"id": 166361,
+		"start_tick": 1390745100,
+		"end_tick": 1390745460,
+		"start_station_id": 54,
+		"end_station_id": 46,
+		"start_pos": [37.771058, -122.402717],
+		"end_pos": [37.781752, -122.405127],
+		"duration": 416
+	}, {
+		"id": 166362,
+		"start_tick": 1390745160,
+		"end_tick": 1390745580,
+		"start_station_id": 58,
+		"end_station_id": 46,
+		"start_pos": [37.776377, -122.39607],
+		"end_pos": [37.781752, -122.405127],
+		"duration": 399
+	}, {
+		"id": 166363,
+		"start_tick": 1390745160,
+		"end_tick": 1390745580,
+		"start_station_id": 58,
+		"end_station_id": 46,
+		"start_pos": [37.776377, -122.39607],
+		"end_pos": [37.781752, -122.405127],
+		"duration": 388
+	}, {
+		"id": 166367,
+		"start_tick": 1390745220,
+		"end_tick": 1390746600,
+		"start_station_id": 30,
+		"end_station_id": 31,
+		"start_pos": [37.429082, -122.142805],
+		"end_pos": [37.448598, -122.159504],
+		"duration": 1370
+	}, {
+		"id": 166365,
+		"start_tick": 1390745280,
+		"end_tick": 1390746120,
+		"start_station_id": 28,
+		"end_station_id": 32,
+		"start_pos": [37.443988, -122.164759],
+		"end_pos": [37.425684, -122.137778],
+		"duration": 830
+	}, {
+		"id": 166366,
+		"start_tick": 1390745280,
+		"end_tick": 1390747920,
+		"start_station_id": 63,
+		"end_station_id": 63,
+		"start_pos": [37.794139, -122.394434],
+		"end_pos": [37.794139, -122.394434],
+		"duration": 2672
+	}, {
+		"id": 166368,
+		"start_tick": 1390745340,
+		"end_tick": 1390745820,
+		"start_station_id": 33,
+		"end_station_id": 60,
+		"start_pos": [37.795001, -122.39997],
+		"end_pos": [37.788446, -122.408499],
+		"duration": 477
+	}, {
+		"id": 166369,
+		"start_tick": 1390745460,
+		"end_tick": 1390745760,
+		"start_station_id": 52,
+		"end_station_id": 53,
+		"start_pos": [37.786978, -122.398108],
+		"end_pos": [37.782259, -122.392738],
+		"duration": 288
+	}, {
+		"id": 166370,
+		"start_tick": 1390745520,
+		"end_tick": 1390751640,
+		"start_station_id": 10,
+		"end_station_id": 10,
+		"start_pos": [37.335885, -121.88566],
+		"end_pos": [37.335885, -121.88566],
+		"duration": 6125
+	}, {
+		"id": 166371,
+		"start_tick": 1390745580,
+		"end_tick": 1390751640,
+		"start_station_id": 10,
+		"end_station_id": 10,
+		"start_pos": [37.335885, -121.88566],
+		"end_pos": [37.335885, -121.88566],
+		"duration": 6039
+	}, {
+		"id": 166372,
+		"start_tick": 1390745700,
+		"end_tick": 1390746480,
+		"start_station_id": 42,
+		"end_station_id": 62,
+		"start_pos": [37.783871, -122.408433],
+		"end_pos": [37.798522, -122.407245],
+		"duration": 819
+	}, {
+		"id": 166373,
+		"start_tick": 1390745880,
+		"end_tick": 1390747800,
+		"start_station_id": 53,
+		"end_station_id": 49,
+		"start_pos": [37.782259, -122.392738],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 1933
+	}, {
+		"id": 166374,
+		"start_tick": 1390746300,
+		"end_tick": 1390746660,
+		"start_station_id": 62,
+		"end_station_id": 60,
+		"start_pos": [37.798522, -122.407245],
+		"end_pos": [37.788446, -122.408499],
+		"duration": 400
+	}, {
+		"id": 166375,
+		"start_tick": 1390746360,
+		"end_tick": 1390747380,
+		"start_station_id": 60,
+		"end_station_id": 49,
+		"start_pos": [37.788446, -122.408499],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 997
+	}, {
+		"id": 166376,
+		"start_tick": 1390746420,
+		"end_tick": 1390746780,
+		"start_station_id": 53,
+		"end_station_id": 53,
+		"start_pos": [37.782259, -122.392738],
+		"end_pos": [37.782259, -122.392738],
+		"duration": 400
+	}, {
+		"id": 166377,
+		"start_tick": 1390746420,
+		"end_tick": 1390748280,
+		"start_station_id": 38,
+		"end_station_id": 53,
+		"start_pos": [37.799953, -122.398525],
+		"end_pos": [37.782259, -122.392738],
+		"duration": 1841
+	}, {
+		"id": 166378,
+		"start_tick": 1390746600,
+		"end_tick": 1390747920,
+		"start_station_id": 45,
+		"end_station_id": 63,
+		"start_pos": [37.792251, -122.397086],
+		"end_pos": [37.794139, -122.394434],
+		"duration": 1350
+	}, {
+		"id": 166379,
+		"start_tick": 1390746720,
+		"end_tick": 1390758000,
+		"start_station_id": 61,
+		"end_station_id": 56,
+		"start_pos": [37.780356, -122.412919],
+		"end_pos": [37.776619, -122.417385],
+		"duration": 11316
+	}, {
+		"id": 166380,
+		"start_tick": 1390746720,
+		"end_tick": 1390758060,
+		"start_station_id": 61,
+		"end_station_id": 56,
+		"start_pos": [37.780356, -122.412919],
+		"end_pos": [37.776619, -122.417385],
+		"duration": 11324
+	}, {
+		"id": 166381,
+		"start_tick": 1390746840,
+		"end_tick": 1390747200,
+		"start_station_id": 50,
+		"end_station_id": 54,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.771058, -122.402717],
+		"duration": 356
+	}, {
+		"id": 166382,
+		"start_tick": 1390746840,
+		"end_tick": 1390758000,
+		"start_station_id": 61,
+		"end_station_id": 56,
+		"start_pos": [37.780356, -122.412919],
+		"end_pos": [37.776619, -122.417385],
+		"duration": 11173
+	}, {
+		"id": 166383,
+		"start_tick": 1390746840,
+		"end_tick": 1390758060,
+		"start_station_id": 61,
+		"end_station_id": 56,
+		"start_pos": [37.780356, -122.412919],
+		"end_pos": [37.776619, -122.417385],
+		"duration": 11193
+	}, {
+		"id": 166384,
+		"start_tick": 1390746840,
+		"end_tick": 1390747980,
+		"start_station_id": 53,
+		"end_station_id": 60,
+		"start_pos": [37.782259, -122.392738],
+		"end_pos": [37.788446, -122.408499],
+		"duration": 1131
+	}, {
+		"id": 166385,
+		"start_tick": 1390747380,
+		"end_tick": 1390748580,
+		"start_station_id": 40,
+		"end_station_id": 49,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 1207
+	}, {
+		"id": 166386,
+		"start_tick": 1390747440,
+		"end_tick": 1390748580,
+		"start_station_id": 40,
+		"end_station_id": 49,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 1188
+	}, {
+		"id": 166387,
+		"start_tick": 1390747500,
+		"end_tick": 1390747860,
+		"start_station_id": 63,
+		"end_station_id": 36,
+		"start_pos": [37.794139, -122.394434],
+		"end_pos": [37.795425, -122.404767],
+		"duration": 312
+	}, {
+		"id": 166388,
+		"start_tick": 1390747500,
+		"end_tick": 1390748100,
+		"start_station_id": 58,
+		"end_station_id": 57,
+		"start_pos": [37.776377, -122.39607],
+		"end_pos": [37.784878, -122.401014],
+		"duration": 574
+	}, {
+		"id": 166389,
+		"start_tick": 1390747560,
+		"end_tick": 1390748100,
+		"start_station_id": 58,
+		"end_station_id": 57,
+		"start_pos": [37.776377, -122.39607],
+		"end_pos": [37.784878, -122.401014],
+		"duration": 572
+	}, {
+		"id": 166390,
+		"start_tick": 1390747620,
+		"end_tick": 1390751760,
+		"start_station_id": 40,
+		"end_station_id": 40,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 4178
+	}, {
+		"id": 166391,
+		"start_tick": 1390747680,
+		"end_tick": 1390747920,
+		"start_station_id": 63,
+		"end_station_id": 63,
+		"start_pos": [37.794139, -122.394434],
+		"end_pos": [37.794139, -122.394434],
+		"duration": 234
+	}, {
+		"id": 166392,
+		"start_tick": 1390747800,
+		"end_tick": 1390751760,
+		"start_station_id": 40,
+		"end_station_id": 40,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 3998
+	}, {
+		"id": 166393,
+		"start_tick": 1390747920,
+		"end_tick": 1390751760,
+		"start_station_id": 40,
+		"end_station_id": 40,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 3867
+	}, {
+		"id": 166395,
+		"start_tick": 1390747980,
+		"end_tick": 1390748640,
+		"start_station_id": 34,
+		"end_station_id": 65,
+		"start_pos": [37.79728, -122.398436],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 655
+	}, {
+		"id": 166397,
+		"start_tick": 1390748160,
+		"end_tick": 1390748700,
+		"start_station_id": 39,
+		"end_station_id": 59,
+		"start_pos": [37.789625, -122.390264],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 521
+	}, {
+		"id": 166399,
+		"start_tick": 1390748280,
+		"end_tick": 1390748760,
+		"start_station_id": 61,
+		"end_station_id": 60,
+		"start_pos": [37.780356, -122.412919],
+		"end_pos": [37.788446, -122.408499],
+		"duration": 459
+	}, {
+		"id": 166398,
+		"start_tick": 1390748340,
+		"end_tick": 1390748880,
+		"start_station_id": 62,
+		"end_station_id": 66,
+		"start_pos": [37.798522, -122.407245],
+		"end_pos": [37.789625, -122.400811],
+		"duration": 519
+	}, {
+		"id": 166400,
+		"start_tick": 1390748460,
+		"end_tick": 1390749600,
+		"start_station_id": 42,
+		"end_station_id": 49,
+		"start_pos": [37.783871, -122.408433],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 1153
+	}, {
+		"id": 166401,
+		"start_tick": 1390748460,
+		"end_tick": 1390749360,
+		"start_station_id": 36,
+		"end_station_id": 61,
+		"start_pos": [37.795425, -122.404767],
+		"end_pos": [37.780356, -122.412919],
+		"duration": 915
+	}, {
+		"id": 166402,
+		"start_tick": 1390748520,
+		"end_tick": 1390749300,
+		"start_station_id": 36,
+		"end_station_id": 65,
+		"start_pos": [37.795425, -122.404767],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 807
+	}, {
+		"id": 166405,
+		"start_tick": 1390748880,
+		"end_tick": 1390749420,
+		"start_station_id": 65,
+		"end_station_id": 58,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.776377, -122.39607],
+		"duration": 492
+	}, {
+		"id": 166406,
+		"start_tick": 1390749120,
+		"end_tick": 1390750920,
+		"start_station_id": 49,
+		"end_station_id": 37,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.788975, -122.403452],
+		"duration": 1765
+	}, {
+		"id": 166407,
+		"start_tick": 1390749180,
+		"end_tick": 1390750920,
+		"start_station_id": 49,
+		"end_station_id": 37,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.788975, -122.403452],
+		"duration": 1772
+	}, {
+		"id": 166408,
+		"start_tick": 1390749240,
+		"end_tick": 1390751400,
+		"start_station_id": 63,
+		"end_station_id": 49,
+		"start_pos": [37.794139, -122.394434],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 2133
+	}, {
+		"id": 166409,
+		"start_tick": 1390749240,
+		"end_tick": 1390751460,
+		"start_station_id": 63,
+		"end_station_id": 49,
+		"start_pos": [37.794139, -122.394434],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 2192
+	}, {
+		"id": 166410,
+		"start_tick": 1390749300,
+		"end_tick": 1390751400,
+		"start_station_id": 63,
+		"end_station_id": 49,
+		"start_pos": [37.794139, -122.394434],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 2077
+	}, {
+		"id": 166411,
+		"start_tick": 1390749300,
+		"end_tick": 1390752480,
+		"start_station_id": 63,
+		"end_station_id": 49,
+		"start_pos": [37.794139, -122.394434],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 3191
+	}, {
+		"id": 166413,
+		"start_tick": 1390749360,
+		"end_tick": 1390751640,
+		"start_station_id": 63,
+		"end_station_id": 49,
+		"start_pos": [37.794139, -122.394434],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 2325
+	}, {
+		"id": 166418,
+		"start_tick": 1390749360,
+		"end_tick": 1390749960,
+		"start_station_id": 50,
+		"end_station_id": 40,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 606
+	}, {
+		"id": 166415,
+		"start_tick": 1390749420,
+		"end_tick": 1390749900,
+		"start_station_id": 49,
+		"end_station_id": 63,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.794139, -122.394434],
+		"duration": 504
+	}, {
+		"id": 166416,
+		"start_tick": 1390749420,
+		"end_tick": 1390750140,
+		"start_station_id": 51,
+		"end_station_id": 59,
+		"start_pos": [37.785299, -122.396236],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 704
+	}, {
+		"id": 166417,
+		"start_tick": 1390749420,
+		"end_tick": 1390750020,
+		"start_station_id": 33,
+		"end_station_id": 43,
+		"start_pos": [37.795001, -122.39997],
+		"end_pos": [37.787152, -122.388013],
+		"duration": 578
+	}, {
+		"id": 166419,
+		"start_tick": 1390749540,
+		"end_tick": 1390750860,
+		"start_station_id": 53,
+		"end_station_id": 40,
+		"start_pos": [37.782259, -122.392738],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 1328
+	}, {
+		"id": 166420,
+		"start_tick": 1390749540,
+		"end_tick": 1390750860,
+		"start_station_id": 53,
+		"end_station_id": 40,
+		"start_pos": [37.782259, -122.392738],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 1321
+	}, {
+		"id": 166421,
+		"start_tick": 1390749600,
+		"end_tick": 1390750080,
+		"start_station_id": 63,
+		"end_station_id": 65,
+		"start_pos": [37.794139, -122.394434],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 486
+	}, {
+		"id": 166422,
+		"start_tick": 1390749660,
+		"end_tick": 1390750620,
+		"start_station_id": 57,
+		"end_station_id": 49,
+		"start_pos": [37.784878, -122.401014],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 997
+	}, {
+		"id": 166424,
+		"start_tick": 1390749720,
+		"end_tick": 1390750620,
+		"start_station_id": 57,
+		"end_station_id": 49,
+		"start_pos": [37.784878, -122.401014],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 925
+	}, {
+		"id": 166425,
+		"start_tick": 1390750200,
+		"end_tick": 1390753020,
+		"start_station_id": 49,
+		"end_station_id": 65,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 2854
+	}, {
+		"id": 166426,
+		"start_tick": 1390750260,
+		"end_tick": 1390750440,
+		"start_station_id": 12,
+		"end_station_id": 9,
+		"start_pos": [37.339301, -121.889937],
+		"end_pos": [37.337391, -121.886995],
+		"duration": 166
+	}, {
+		"id": 166427,
+		"start_tick": 1390750320,
+		"end_tick": 1390751340,
+		"start_station_id": 40,
+		"end_station_id": 49,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 1028
+	}, {
+		"id": 166428,
+		"start_tick": 1390750320,
+		"end_tick": 1390751220,
+		"start_station_id": 43,
+		"end_station_id": 59,
+		"start_pos": [37.787152, -122.388013],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 913
+	}, {
+		"id": 166429,
+		"start_tick": 1390750440,
+		"end_tick": 1390758300,
+		"start_station_id": 29,
+		"end_station_id": 29,
+		"start_pos": [37.444521, -122.163093],
+		"end_pos": [37.444521, -122.163093],
+		"duration": 7841
+	}, {
+		"id": 166430,
+		"start_tick": 1390750560,
+		"end_tick": 1390758360,
+		"start_station_id": 29,
+		"end_station_id": 29,
+		"start_pos": [37.444521, -122.163093],
+		"end_pos": [37.444521, -122.163093],
+		"duration": 7750
+	}, {
+		"id": 166431,
+		"start_tick": 1390750680,
+		"end_tick": 1390751520,
+		"start_station_id": 42,
+		"end_station_id": 59,
+		"start_pos": [37.783871, -122.408433],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 845
+	}, {
+		"id": 166435,
+		"start_tick": 1390750800,
+		"end_tick": 1390753800,
+		"start_station_id": 50,
+		"end_station_id": 50,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 3013
+	}, {
+		"id": 166434,
+		"start_tick": 1390750860,
+		"end_tick": 1390752120,
+		"start_station_id": 49,
+		"end_station_id": 49,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 1258
+	}, {
+		"id": 166442,
+		"start_tick": 1390751580,
+		"end_tick": 1390752300,
+		"start_station_id": 40,
+		"end_station_id": 49,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 697
+	}, {
+		"id": 166443,
+		"start_tick": 1390751640,
+		"end_tick": 1390752060,
+		"start_station_id": 54,
+		"end_station_id": 61,
+		"start_pos": [37.771058, -122.402717],
+		"end_pos": [37.780356, -122.412919],
+		"duration": 467
+	}, {
+		"id": 166444,
+		"start_tick": 1390751640,
+		"end_tick": 1390752780,
+		"start_station_id": 49,
+		"end_station_id": 40,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 1154
+	}, {
+		"id": 166445,
+		"start_tick": 1390752000,
+		"end_tick": 1390752840,
+		"start_station_id": 48,
+		"end_station_id": 39,
+		"start_pos": [37.781332, -122.418603],
+		"end_pos": [37.789625, -122.390264],
+		"duration": 835
+	}, {
+		"id": 166446,
+		"start_tick": 1390752180,
+		"end_tick": 1390761120,
+		"start_station_id": 57,
+		"end_station_id": 57,
+		"start_pos": [37.784878, -122.401014],
+		"end_pos": [37.784878, -122.401014],
+		"duration": 8948
+	}, {
+		"id": 166447,
+		"start_tick": 1390752300,
+		"end_tick": 1390753080,
+		"start_station_id": 49,
+		"end_station_id": 38,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 809
+	}, {
+		"id": 166448,
+		"start_tick": 1390752360,
+		"end_tick": 1390752900,
+		"start_station_id": 66,
+		"end_station_id": 50,
+		"start_pos": [37.789625, -122.400811],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 543
+	}, {
+		"id": 166449,
+		"start_tick": 1390752480,
+		"end_tick": 1390753980,
+		"start_station_id": 49,
+		"end_station_id": 64,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.7913, -122.399051],
+		"duration": 1496
+	}, {
+		"id": 166451,
+		"start_tick": 1390752540,
+		"end_tick": 1390753500,
+		"start_station_id": 62,
+		"end_station_id": 55,
+		"start_pos": [37.798522, -122.407245],
+		"end_pos": [37.774814, -122.418954],
+		"duration": 974
+	}, {
+		"id": 166452,
+		"start_tick": 1390752540,
+		"end_tick": 1390753260,
+		"start_station_id": 61,
+		"end_station_id": 59,
+		"start_pos": [37.780356, -122.412919],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 724
+	}, {
+		"id": 166453,
+		"start_tick": 1390752660,
+		"end_tick": 1390752900,
+		"start_station_id": 61,
+		"end_station_id": 65,
+		"start_pos": [37.780356, -122.412919],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 287
+	}, {
+		"id": 166458,
+		"start_tick": 1390752900,
+		"end_tick": 1390753380,
+		"start_station_id": 50,
+		"end_station_id": 66,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.789625, -122.400811],
+		"duration": 479
+	}, {
+		"id": 166455,
+		"start_tick": 1390753200,
+		"end_tick": 1390757760,
+		"start_station_id": 22,
+		"end_station_id": 22,
+		"start_pos": [37.394358, -122.076713],
+		"end_pos": [37.394358, -122.076713],
+		"duration": 4576
+	}, {
+		"id": 166456,
+		"start_tick": 1390753260,
+		"end_tick": 1390753740,
+		"start_station_id": 46,
+		"end_station_id": 54,
+		"start_pos": [37.781752, -122.405127],
+		"end_pos": [37.771058, -122.402717],
+		"duration": 449
+	}, {
+		"id": 166457,
+		"start_tick": 1390753320,
+		"end_tick": 1390753740,
+		"start_station_id": 66,
+		"end_station_id": 34,
+		"start_pos": [37.789625, -122.400811],
+		"end_pos": [37.79728, -122.398436],
+		"duration": 412
+	}, {
+		"id": 166460,
+		"start_tick": 1390753380,
+		"end_tick": 1390753980,
+		"start_station_id": 40,
+		"end_station_id": 50,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 573
+	}, {
+		"id": 166461,
+		"start_tick": 1390753500,
+		"end_tick": 1390753740,
+		"start_station_id": 7,
+		"end_station_id": 5,
+		"start_pos": [37.330165, -121.885831],
+		"end_pos": [37.336721, -121.894074],
+		"duration": 268
+	}, {
+		"id": 166462,
+		"start_tick": 1390753500,
+		"end_tick": 1390754100,
+		"start_station_id": 63,
+		"end_station_id": 38,
+		"start_pos": [37.794139, -122.394434],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 615
+	}, {
+		"id": 166465,
+		"start_tick": 1390753920,
+		"end_tick": 1390755060,
+		"start_station_id": 43,
+		"end_station_id": 38,
+		"start_pos": [37.787152, -122.388013],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 1116
+	}, {
+		"id": 166466,
+		"start_tick": 1390753980,
+		"end_tick": 1390755000,
+		"start_station_id": 58,
+		"end_station_id": 56,
+		"start_pos": [37.776377, -122.39607],
+		"end_pos": [37.776619, -122.417385],
+		"duration": 976
+	}, {
+		"id": 166468,
+		"start_tick": 1390754220,
+		"end_tick": 1390754580,
+		"start_station_id": 54,
+		"end_station_id": 50,
+		"start_pos": [37.771058, -122.402717],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 357
+	}, {
+		"id": 166469,
+		"start_tick": 1390754220,
+		"end_tick": 1390754640,
+		"start_station_id": 59,
+		"end_station_id": 43,
+		"start_pos": [37.776317, -122.395569],
+		"end_pos": [37.787152, -122.388013],
+		"duration": 420
+	}, {
+		"id": 166471,
+		"start_tick": 1390754460,
+		"end_tick": 1390755000,
+		"start_station_id": 60,
+		"end_station_id": 53,
+		"start_pos": [37.788446, -122.408499],
+		"end_pos": [37.782259, -122.392738],
+		"duration": 531
+	}, {
+		"id": 166472,
+		"start_tick": 1390754520,
+		"end_tick": 1390754820,
+		"start_station_id": 55,
+		"end_station_id": 42,
+		"start_pos": [37.774814, -122.418954],
+		"end_pos": [37.783871, -122.408433],
+		"duration": 338
+	}, {
+		"id": 166474,
+		"start_tick": 1390754580,
+		"end_tick": 1390755060,
+		"start_station_id": 34,
+		"end_station_id": 39,
+		"start_pos": [37.79728, -122.398436],
+		"end_pos": [37.789625, -122.390264],
+		"duration": 499
+	}, {
+		"id": 166475,
+		"start_tick": 1390754700,
+		"end_tick": 1390759800,
+		"start_station_id": 26,
+		"end_station_id": 26,
+		"start_pos": [37.385956, -122.083678],
+		"end_pos": [37.385956, -122.083678],
+		"duration": 5121
+	}, {
+		"id": 166478,
+		"start_tick": 1390755060,
+		"end_tick": 1390755540,
+		"start_station_id": 38,
+		"end_station_id": 43,
+		"start_pos": [37.799953, -122.398525],
+		"end_pos": [37.787152, -122.388013],
+		"duration": 480
+	}, {
+		"id": 166482,
+		"start_tick": 1390755300,
+		"end_tick": 1390755780,
+		"start_station_id": 57,
+		"end_station_id": 58,
+		"start_pos": [37.784878, -122.401014],
+		"end_pos": [37.776377, -122.39607],
+		"duration": 468
+	}, {
+		"id": 166483,
+		"start_tick": 1390755300,
+		"end_tick": 1390755780,
+		"start_station_id": 57,
+		"end_station_id": 58,
+		"start_pos": [37.784878, -122.401014],
+		"end_pos": [37.776377, -122.39607],
+		"duration": 458
+	}, {
+		"id": 166481,
+		"start_tick": 1390755300,
+		"end_tick": 1390755900,
+		"start_station_id": 42,
+		"end_station_id": 40,
+		"start_pos": [37.783871, -122.408433],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 608
+	}, {
+		"id": 166484,
+		"start_tick": 1390755360,
+		"end_tick": 1390755840,
+		"start_station_id": 45,
+		"end_station_id": 50,
+		"start_pos": [37.792251, -122.397086],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 492
+	}, {
+		"id": 166488,
+		"start_tick": 1390755720,
+		"end_tick": 1390756320,
+		"start_station_id": 64,
+		"end_station_id": 50,
+		"start_pos": [37.7913, -122.399051],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 615
+	}, {
+		"id": 166489,
+		"start_tick": 1390755720,
+		"end_tick": 1390756320,
+		"start_station_id": 64,
+		"end_station_id": 50,
+		"start_pos": [37.7913, -122.399051],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 643
+	}, {
+		"id": 166492,
+		"start_tick": 1390756020,
+		"end_tick": 1390756440,
+		"start_station_id": 60,
+		"end_station_id": 62,
+		"start_pos": [37.788446, -122.408499],
+		"end_pos": [37.798522, -122.407245],
+		"duration": 381
+	}, {
+		"id": 166493,
+		"start_tick": 1390756260,
+		"end_tick": 1390756920,
+		"start_station_id": 65,
+		"end_station_id": 34,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.79728, -122.398436],
+		"duration": 655
+	}, {
+		"id": 166494,
+		"start_tick": 1390756560,
+		"end_tick": 1390757220,
+		"start_station_id": 34,
+		"end_station_id": 46,
+		"start_pos": [37.79728, -122.398436],
+		"end_pos": [37.781752, -122.405127],
+		"duration": 626
+	}, {
+		"id": 166495,
+		"start_tick": 1390756680,
+		"end_tick": 1390758000,
+		"start_station_id": 47,
+		"end_station_id": 49,
+		"start_pos": [37.77865, -122.418235],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 1367
+	}, {
+		"id": 166496,
+		"start_tick": 1390756680,
+		"end_tick": 1390758060,
+		"start_station_id": 47,
+		"end_station_id": 49,
+		"start_pos": [37.77865, -122.418235],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 1353
+	}, {
+		"id": 166497,
+		"start_tick": 1390756740,
+		"end_tick": 1390758780,
+		"start_station_id": 22,
+		"end_station_id": 22,
+		"start_pos": [37.394358, -122.076713],
+		"end_pos": [37.394358, -122.076713],
+		"duration": 2039
+	}, {
+		"id": 166498,
+		"start_tick": 1390756920,
+		"end_tick": 1390757820,
+		"start_station_id": 40,
+		"end_station_id": 58,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.776377, -122.39607],
+		"duration": 877
+	}, {
+		"id": 166499,
+		"start_tick": 1390757280,
+		"end_tick": 1390757880,
+		"start_station_id": 30,
+		"end_station_id": 28,
+		"start_pos": [37.429082, -122.142805],
+		"end_pos": [37.443988, -122.164759],
+		"duration": 624
+	}, {
+		"id": 166500,
+		"start_tick": 1390757340,
+		"end_tick": 1390758600,
+		"start_station_id": 62,
+		"end_station_id": 55,
+		"start_pos": [37.798522, -122.407245],
+		"end_pos": [37.774814, -122.418954],
+		"duration": 1237
+	}, {
+		"id": 166501,
+		"start_tick": 1390757520,
+		"end_tick": 1390757640,
+		"start_station_id": 45,
+		"end_station_id": 40,
+		"start_pos": [37.792251, -122.397086],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 132
+	}, {
+		"id": 166502,
+		"start_tick": 1390757700,
+		"end_tick": 1390758000,
+		"start_station_id": 56,
+		"end_station_id": 65,
+		"start_pos": [37.776619, -122.417385],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 329
+	}, {
+		"id": 166503,
+		"start_tick": 1390757700,
+		"end_tick": 1390758240,
+		"start_station_id": 49,
+		"end_station_id": 40,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 527
+	}, {
+		"id": 166504,
+		"start_tick": 1390757760,
+		"end_tick": 1390758240,
+		"start_station_id": 49,
+		"end_station_id": 40,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 511
+	}, {
+		"id": 166506,
+		"start_tick": 1390758000,
+		"end_tick": 1390758360,
+		"start_station_id": 53,
+		"end_station_id": 66,
+		"start_pos": [37.782259, -122.392738],
+		"end_pos": [37.789625, -122.400811],
+		"duration": 366
+	}, {
+		"id": 166507,
+		"start_tick": 1390758180,
+		"end_tick": 1390758720,
+		"start_station_id": 47,
+		"end_station_id": 37,
+		"start_pos": [37.77865, -122.418235],
+		"end_pos": [37.788975, -122.403452],
+		"duration": 544
+	}, {
+		"id": 166514,
+		"start_tick": 1390758300,
+		"end_tick": 1390758960,
+		"start_station_id": 55,
+		"end_station_id": 37,
+		"start_pos": [37.774814, -122.418954],
+		"end_pos": [37.788975, -122.403452],
+		"duration": 693
+	}, {
+		"id": 166509,
+		"start_tick": 1390758360,
+		"end_tick": 1390759140,
+		"start_station_id": 42,
+		"end_station_id": 38,
+		"start_pos": [37.783871, -122.408433],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 793
+	}, {
+		"id": 166511,
+		"start_tick": 1390758660,
+		"end_tick": 1390759980,
+		"start_station_id": 49,
+		"end_station_id": 61,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.780356, -122.412919],
+		"duration": 1337
+	}, {
+		"id": 166512,
+		"start_tick": 1390758720,
+		"end_tick": 1390759980,
+		"start_station_id": 49,
+		"end_station_id": 61,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.780356, -122.412919],
+		"duration": 1292
+	}, {
+		"id": 166513,
+		"start_tick": 1390758720,
+		"end_tick": 1390759980,
+		"start_station_id": 49,
+		"end_station_id": 61,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.780356, -122.412919],
+		"duration": 1262
+	}, {
+		"id": 166515,
+		"start_tick": 1390759680,
+		"end_tick": 1390760700,
+		"start_station_id": 53,
+		"end_station_id": 55,
+		"start_pos": [37.782259, -122.392738],
+		"end_pos": [37.774814, -122.418954],
+		"duration": 1020
+	}, {
+		"id": 166516,
+		"start_tick": 1390759740,
+		"end_tick": 1390760760,
+		"start_station_id": 50,
+		"end_station_id": 49,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 1039
+	}, {
+		"id": 166519,
+		"start_tick": 1390759740,
+		"end_tick": 1390760760,
+		"start_station_id": 50,
+		"end_station_id": 49,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.80477, -122.403234],
+		"duration": 1056
+	}, {
+		"id": 166517,
+		"start_tick": 1390759860,
+		"end_tick": 1390761120,
+		"start_station_id": 62,
+		"end_station_id": 50,
+		"start_pos": [37.798522, -122.407245],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 1272
+	}, {
+		"id": 166518,
+		"start_tick": 1390759920,
+		"end_tick": 1390760340,
+		"start_station_id": 65,
+		"end_station_id": 56,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.776619, -122.417385],
+		"duration": 441
+	}, {
+		"id": 166520,
+		"start_tick": 1390759980,
+		"end_tick": 1390760100,
+		"start_station_id": 40,
+		"end_station_id": 45,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.792251, -122.397086],
+		"duration": 126
+	}, {
+		"id": 166524,
+		"start_tick": 1390760160,
+		"end_tick": 1390760520,
+		"start_station_id": 57,
+		"end_station_id": 60,
+		"start_pos": [37.784878, -122.401014],
+		"end_pos": [37.788446, -122.408499],
+		"duration": 384
+	}, {
+		"id": 166526,
+		"start_tick": 1390760160,
+		"end_tick": 1390760820,
+		"start_station_id": 49,
+		"end_station_id": 43,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.787152, -122.388013],
+		"duration": 655
+	}, {
+		"id": 166529,
+		"start_tick": 1390760460,
+		"end_tick": 1390760820,
+		"start_station_id": 1,
+		"end_station_id": 5,
+		"start_pos": [37.329732, -121.901782],
+		"end_pos": [37.336721, -121.894074],
+		"duration": 369
+	}, {
+		"id": 166531,
+		"start_tick": 1390761180,
+		"end_tick": 1390762140,
+		"start_station_id": 55,
+		"end_station_id": 40,
+		"start_pos": [37.774814, -122.418954],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 950
+	}, {
+		"id": 166534,
+		"start_tick": 1390761900,
+		"end_tick": 1390762080,
+		"start_station_id": 49,
+		"end_station_id": 33,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.795001, -122.39997],
+		"duration": 227
+	}, {
+		"id": 166535,
+		"start_tick": 1390762260,
+		"end_tick": 1390762740,
+		"start_station_id": 65,
+		"end_station_id": 53,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.782259, -122.392738],
+		"duration": 473
+	}, {
+		"id": 166536,
+		"start_tick": 1390762440,
+		"end_tick": 1390763220,
+		"start_station_id": 49,
+		"end_station_id": 63,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.794139, -122.394434],
+		"duration": 781
+	}, {
+		"id": 166537,
+		"start_tick": 1390762500,
+		"end_tick": 1390763220,
+		"start_station_id": 49,
+		"end_station_id": 63,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.794139, -122.394434],
+		"duration": 716
+	}, {
+		"id": 166538,
+		"start_tick": 1390762800,
+		"end_tick": 1390763160,
+		"start_station_id": 5,
+		"end_station_id": 1,
+		"start_pos": [37.336721, -121.894074],
+		"end_pos": [37.329732, -121.901782],
+		"duration": 359
+	}, {
+		"id": 166539,
+		"start_tick": 1390762980,
+		"end_tick": 1390763160,
+		"start_station_id": 50,
+		"end_station_id": 59,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 176
+	}, {
+		"id": 166547,
+		"start_tick": 1390763580,
+		"end_tick": 1390764360,
+		"start_station_id": 49,
+		"end_station_id": 65,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 798
+	}, {
+		"id": 166553,
+		"start_tick": 1390764000,
+		"end_tick": 1390764300,
+		"start_station_id": 44,
+		"end_station_id": 57,
+		"start_pos": [37.789756, -122.394643],
+		"end_pos": [37.784878, -122.401014],
+		"duration": 288
+	}, {
+		"id": 166554,
+		"start_tick": 1390764120,
+		"end_tick": 1390764660,
+		"start_station_id": 40,
+		"end_station_id": 42,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.783871, -122.408433],
+		"duration": 554
+	}, {
+		"id": 166555,
+		"start_tick": 1390764360,
+		"end_tick": 1390764660,
+		"start_station_id": 60,
+		"end_station_id": 33,
+		"start_pos": [37.788446, -122.408499],
+		"end_pos": [37.795001, -122.39997],
+		"duration": 289
+	}, {
+		"id": 166557,
+		"start_tick": 1390764900,
+		"end_tick": 1390765560,
+		"start_station_id": 65,
+		"end_station_id": 59,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 680
+	}, {
+		"id": 166560,
+		"start_tick": 1390766100,
+		"end_tick": 1390767540,
+		"start_station_id": 29,
+		"end_station_id": 29,
+		"start_pos": [37.444521, -122.163093],
+		"end_pos": [37.444521, -122.163093],
+		"duration": 1460
+	}, {
+		"id": 166562,
+		"start_tick": 1390766220,
+		"end_tick": 1390766940,
+		"start_station_id": 47,
+		"end_station_id": 59,
+		"start_pos": [37.77865, -122.418235],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 701
+	}, {
+		"id": 166563,
+		"start_tick": 1390766280,
+		"end_tick": 1390766940,
+		"start_station_id": 47,
+		"end_station_id": 59,
+		"start_pos": [37.77865, -122.418235],
+		"end_pos": [37.776317, -122.395569],
+		"duration": 675
+	}, {
+		"id": 166570,
+		"start_tick": 1390766760,
+		"end_tick": 1390767060,
+		"start_station_id": 64,
+		"end_station_id": 65,
+		"start_pos": [37.7913, -122.399051],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 297
+	}, {
+		"id": 166571,
+		"start_tick": 1390767300,
+		"end_tick": 1390767600,
+		"start_station_id": 66,
+		"end_station_id": 51,
+		"start_pos": [37.789625, -122.400811],
+		"end_pos": [37.785299, -122.396236],
+		"duration": 300
+	}, {
+		"id": 166574,
+		"start_tick": 1390768020,
+		"end_tick": 1390768980,
+		"start_station_id": 50,
+		"end_station_id": 63,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.794139, -122.394434],
+		"duration": 974
+	}, {
+		"id": 166585,
+		"start_tick": 1390768740,
+		"end_tick": 1390769100,
+		"start_station_id": 65,
+		"end_station_id": 45,
+		"start_pos": [37.786305, -122.404966],
+		"end_pos": [37.792251, -122.397086],
+		"duration": 316
+	}, {
+		"id": 166583,
+		"start_tick": 1390768860,
+		"end_tick": 1390769460,
+		"start_station_id": 43,
+		"end_station_id": 43,
+		"start_pos": [37.787152, -122.388013],
+		"end_pos": [37.787152, -122.388013],
+		"duration": 604
+	}, {
+		"id": 166584,
+		"start_tick": 1390768920,
+		"end_tick": 1390769220,
+		"start_station_id": 43,
+		"end_station_id": 50,
+		"start_pos": [37.787152, -122.388013],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 292
+	}, {
+		"id": 166586,
+		"start_tick": 1390769100,
+		"end_tick": 1390769640,
+		"start_station_id": 36,
+		"end_station_id": 66,
+		"start_pos": [37.795425, -122.404767],
+		"end_pos": [37.789625, -122.400811],
+		"duration": 577
+	}, {
+		"id": 166587,
+		"start_tick": 1390769100,
+		"end_tick": 1390769640,
+		"start_station_id": 36,
+		"end_station_id": 66,
+		"start_pos": [37.795425, -122.404767],
+		"end_pos": [37.789625, -122.400811],
+		"duration": 563
+	}, {
+		"id": 166588,
+		"start_tick": 1390769220,
+		"end_tick": 1390769640,
+		"start_station_id": 33,
+		"end_station_id": 60,
+		"start_pos": [37.795001, -122.39997],
+		"end_pos": [37.788446, -122.408499],
+		"duration": 401
+	}, {
+		"id": 166589,
+		"start_tick": 1390769340,
+		"end_tick": 1390769640,
+		"start_station_id": 37,
+		"end_station_id": 36,
+		"start_pos": [37.788975, -122.403452],
+		"end_pos": [37.795425, -122.404767],
+		"duration": 271
+	}, {
+		"id": 166596,
+		"start_tick": 1390770120,
+		"end_tick": 1390771020,
+		"start_station_id": 49,
+		"end_station_id": 50,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 901
+	}, {
+		"id": 166598,
+		"start_tick": 1390770180,
+		"end_tick": 1390771020,
+		"start_station_id": 49,
+		"end_station_id": 50,
+		"start_pos": [37.80477, -122.403234],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 853
+	}, {
+		"id": 166599,
+		"start_tick": 1390770420,
+		"end_tick": 1390770840,
+		"start_station_id": 43,
+		"end_station_id": 45,
+		"start_pos": [37.787152, -122.388013],
+		"end_pos": [37.792251, -122.397086],
+		"duration": 396
+	}, {
+		"id": 166600,
+		"start_tick": 1390770840,
+		"end_tick": 1390771200,
+		"start_station_id": 10,
+		"end_station_id": 14,
+		"start_pos": [37.335885, -121.88566],
+		"end_pos": [37.333955, -121.877349],
+		"duration": 368
+	}, {
+		"id": 166601,
+		"start_tick": 1390771980,
+		"end_tick": 1390772400,
+		"start_station_id": 50,
+		"end_station_id": 39,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.789625, -122.390264],
+		"duration": 430
+	}, {
+		"id": 166603,
+		"start_tick": 1390773060,
+		"end_tick": 1390773720,
+		"start_station_id": 1,
+		"end_station_id": 14,
+		"start_pos": [37.329732, -121.901782],
+		"end_pos": [37.333955, -121.877349],
+		"duration": 687
+	}, {
+		"id": 166604,
+		"start_tick": 1390773060,
+		"end_tick": 1390773720,
+		"start_station_id": 1,
+		"end_station_id": 14,
+		"start_pos": [37.329732, -121.901782],
+		"end_pos": [37.333955, -121.877349],
+		"duration": 666
+	}, {
+		"id": 166605,
+		"start_tick": 1390773240,
+		"end_tick": 1390773660,
+		"start_station_id": 34,
+		"end_station_id": 65,
+		"start_pos": [37.79728, -122.398436],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 425
+	}, {
+		"id": 166606,
+		"start_tick": 1390773240,
+		"end_tick": 1390773660,
+		"start_station_id": 34,
+		"end_station_id": 65,
+		"start_pos": [37.79728, -122.398436],
+		"end_pos": [37.786305, -122.404966],
+		"duration": 430
+	}, {
+		"id": 166611,
+		"start_tick": 1390774740,
+		"end_tick": 1390774860,
+		"start_station_id": 50,
+		"end_station_id": 53,
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.782259, -122.392738],
+		"duration": 122
+	}, {
+		"id": 166612,
+		"start_tick": 1390776420,
+		"end_tick": 1390776480,
+		"start_station_id": 53,
+		"end_station_id": 50,
+		"start_pos": [37.782259, -122.392738],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 77
+	}, {
+		"id": 166614,
+		"start_tick": 1390777380,
+		"end_tick": 1390782360,
+		"start_station_id": 44,
+		"end_station_id": 46,
+		"start_pos": [37.789756, -122.394643],
+		"end_pos": [37.781752, -122.405127],
+		"duration": 4963
+	}, {
+		"id": 166615,
+		"start_tick": 1390777380,
+		"end_tick": 1390782420,
+		"start_station_id": 44,
+		"end_station_id": 46,
+		"start_pos": [37.789756, -122.394643],
+		"end_pos": [37.781752, -122.405127],
+		"duration": 4994
+	}, {
+		"id": 166616,
+		"start_tick": 1390781880,
+		"end_tick": 1390783080,
+		"start_station_id": 63,
+		"end_station_id": 54,
+		"start_pos": [37.794139, -122.394434],
+		"end_pos": [37.771058, -122.402717],
+		"duration": 1228
+	}, {
+		"id": 166617,
+		"start_tick": 1390783500,
+		"end_tick": 1390784160,
+		"start_station_id": 40,
+		"end_station_id": 61,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.780356, -122.412919],
+		"duration": 711
+	}]
+}

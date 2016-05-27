@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <title>Bike Trail</title>
+    <script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
+</head>
+
+<body>
+
+    <div id="myMap" style="width: 1280px; height: 1024px;"></div>
+
+    <script type="text/javascript">
+        //sample data : 
+        ///////////////////////////////////
+        var sampleJson={
+	"start_tick": 1390712400,
+	"end_tick": 1390798800,
+	"trips": [{
+		"id": 166085,
+		"start_tick": 1390717620,
+		"end_tick": 1390718280,
+		"start_station_id": 40,
+		"end_station_id": 50, 
+		"start_pos": [37.780526, -122.390288],
+		"end_pos": [37.795392, -122.394203],
+		"duration": 646
+	}, {
+		"id": 166087,
+		"start_tick": 1390719780,
+		"end_tick": 1390721400,
+		"start_station_id": 34,
+		"end_station_id": 38,
+		"start_pos": [37.79728, -122.398436],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 1574
+	}, {
+		"id": 166088,
+		"start_tick": 1390719840,
+		"end_tick": 1390721220,
+		"start_station_id": 57,
+		"end_station_id": 38,
+		"start_pos": [37.784878, -122.401014],
+		"end_pos": [37.799953, -122.398525],
+		"duration": 1401
+	}]};
+        ////////////////
+        sampleArray = [{
+            starting: [51.97559, 4.12565],
+            ending: [51.94784, 1.2539]
+        }, {
+            starting: [55.46242, 8.43872],
+            ending: [51.74784, 1.2539]
+        }];
+        //global variables
+        var geocoder;
+        var LocalMap;
+        // function 1 :     
+        function SetCenter(a, b) {
+            // whenever you call for the init function i.e. new map is generated then it is reloaded automatically after providing the below three parametres.
+            LocalMap = new google.maps.Map(document.getElementById('myMap'), {
+                center: new google.maps.LatLng(a, b),
+                zoom: 15,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            });
+        }
+
+        // function 2:    
+        function createNewLine(newLatLng) {
+            //sample data
+            //var point1 = new google.maps.LatLng(37.795392, -122.394203);
+            //var point2 = new google.maps.LatLng(37.780526, -122.390288);
+            bounds = new google.maps.LatLngBounds();
+            var point1 = new google.maps.LatLng(newLatLng.starting[0], newLatLng.starting[1]);
+            var point2 = new google.maps.LatLng(newLatLng.ending[0], newLatLng.ending[1]);
+            var polyLine = new google.maps.Polyline({
+                path: [point1, point2],
+                strokeColor: 'green',
+                strokeWeight: 2,
+                strokeOpacity: 1
+            });
+
+            polyLine.setMap(LocalMap);
+            bounds.extend(point1);
+            bounds.extend(point2);
+        }
+
+        //create ;line sample format 
+        //createNewLine({starting:[51.97559, 4.12565], ending:[51.94784, 1.2539]});
+        //function 3: 
+        function processDrawLineArray(myArray) {
+            var count = 0;
+            myArray.forEach(function(ele) {
+                console.log("drawing line" + ++count)
+                createNewLine(ele);
+            });
+        }
+
+        //function 4: 
+        function putMarkers(newLatLng) {
+            var point1 = new google.maps.LatLng(newLatLng.starting[0], newLatLng.starting[1]);
+            var point2 = new google.maps.LatLng(newLatLng.ending[0], newLatLng.ending[1]);
+            var point = new google.maps.LatLng(51.97559, 4.12565);
+            //plotting starting marker
+            var marker = new google.maps.Marker({
+                position: point1,
+                map: LocalMap,
+                animation: google.maps.Animation.DROP,
+                title: 'Hello World!'
+            });
+            //plotting end points  
+            var marker = new google.maps.Marker({
+                position: point2,
+                map: LocalMap,
+                animation: google.maps.Animation.DROP,
+                title: 'Hello World!'
+            });
+        }
+
+        //function5: 
+        function plotMarkers(arr) {
+            arr.forEach(function(ele) {
+                putMarkers(ele);
+            })
+        }
+
+        /********** Main *********************/
+
+        SetCenter(37.795392, -122.394203); // setting the center .
+       // processDrawLineArray(sampleArray); // passing array to draw lines 
+    //    plotMarkers(sampleArray);
+        /* 
+        
+        
+        "trips": [{
+		"id": 166085,
+		"start_tick": 1390717620,
+		"end_tick": 1390718280,
+		"start_station_id": 40,
+		"end_station_id": 50,
+		"start_pos": [37.795392, -122.394203],
+		"end_pos": [37.780526, -122.390288],
+		"duration": 646
+	}
+        
+        
+        
+        */
+        
+        function processJson(sam){
+           // for(var i=1;i<=1;i++){
+                var point =new google.maps.LatLng(sam.trips[1].start_pos[0], sam.trips[1].start_pos[1]);
+                //var marker = "marker" + i;
+                var marker1 = new google.maps.Marker({
+                position: point,
+                map: LocalMap,
+                animation: google.maps.Animation.DROP,
+                title: 'marker'
+            });
+           // }
+            
+           // for(var i=0;i<1;i++){
+               //var marker = "marker" + i;
+                //var endpoint =new google.maps.LatLng(sam.trips[i].end_pos[0], sam.trips[i].end_pos[1]);
+                moveMarker(marker1,sam.trips[1].end_pos[0], sam.trips[1].end_pos[1],sam.trips[1].start_pos[0],sam.trips[1].start_pos[1]);
+           // }
+            
+        }
+        
+        function moveMarker(marker1,endpoint1,endpoint2,startpoint1,startpoint2){
+            console.log()
+            var operation1,operation2;
+            if(startpoint1 < endpoint1){
+                operation1 = "plus";
+            }else{
+                operation1 = "minus";
+            }
+            
+             if(startpoint2 < endpoint2){
+                operation2 = "plus";
+            }else{
+                operation2 = "minus";
+            }
+            
+            if(operation1 == "plus" && operation2 == "minus"){
+            
+                    setInterval(function(){
+    
+                       // if(startpoint1 < endpoint1)
+                        {
+                            startpoint1 = startpoint1 + 0.02;
+                        }
+                        
+                       // if(startpoint2 > endpoint2)
+                        {
+                            startpoint2 = startpoint2 -0.02;
+                        }
+                        
+                        console.log(startpoint1 + ":" + endpoint1);
+                        var newpoint = new google.maps.LatLng(startpoint1,startpoint2);
+                        
+                         marker1.setPosition(newpoint);
+                    },100); 
+                
+                
+                
+            }
+            /**
+            var point = new google.maps.LatLng(a,b);
+            while()
+            setInterval(function(){
+            a=a+0.02;
+            b=b+0.02;
+             var point = new google.maps.LatLng(a,b);
+            console.log(point);
+           marker.setPosition(point);
+        },100) **/
+        }
+        
+       processJson(sampleJson);
+        //try
+        /*
+        var point = new google.maps.LatLng(51.97559, 4.12565);
+        var marker = new google.maps.Marker({
+                position: point,
+                map: LocalMap,
+                animation: google.maps.Animation.DROP,
+                title: 'Hello World!'
+            });
+        
+       
+        a=51.97559;
+        b=4.12565;
+        setInterval(function(){
+            a=a+0.02;
+            b=b+0.02;
+             var point = new google.maps.LatLng(a,b);
+            console.log(point);
+           marker.setPosition(point);
+        },100)
+        */
+    </script>
+</body>
+
+</html>

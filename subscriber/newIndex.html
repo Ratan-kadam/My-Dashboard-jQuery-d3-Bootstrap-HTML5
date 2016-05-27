@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+    <title>Bike Share Analysis</title>
+
+    <!-- Custom CSS -->
+    <link href="navbar.css" rel="stylesheet">
+       <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.1.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" ></script>
+       <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+
+function loadHtmlPage(pageName){
+   $("#loadHtmlPage").load(pageName);
+}
+
+    </script>
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="#menu-toggle">
+                        Menu
+                    </a>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Real Time Data Analysis &nbsp;<b class="caret"></b> </a>  
+                    <ul class="dropdown-menu">
+                    <li><a href="#">Bike Station Status</a></li>
+                          <li><a href="#" >Bike/Dock Avaibility</a></li>
+                           <li><a href="#realTimeMaps">Demand Analysis (Map)</a></li>
+                           </ul>
+                </li>
+                <li>
+                    <a href="#" onclick="loadHtmlPage('/subscriber/startingEndingTrips.html')">Starting and Ending Trips Analysis</a>
+                </li>
+                <li>
+                    <a href="#" onclick="loadHtmlPage('/subscriber/userDocksStationsTrips.html')">Docks, Stations and Trips Analysis</a>
+                </li>
+                <li>
+                    <a href="#topFiveAnalysis" onclick="loadHtmlPage('/subscriber/topFive.html')">Top Five Analysis</a>
+                </li>
+                <li>
+                    <a href="#dayHourMonthYearAnalysis" onclick="loadHtmlPage('/subscriber/dayHourMonthYear.html')" >Month, Day, Hour Analysis</a>
+                </li>
+                 <li>
+                    <a href="#">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+<div id="loadHtmlPage"></div>
+
+        <!-- /#page-content-wrapper -->
+
+    </div>
+
+ 
+
+</body>
+
+</html>

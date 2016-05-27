@@ -1,0 +1,96 @@
+<html>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+<meta content="utf-8" http-equiv="encoding">
+<head>
+  <title>Bay Area Bike Share</title>
+  <link  href="jquery-ui.min.css" media="all" rel="stylesheet" />
+  <script  src="/VirtualRealData/virtualRealData.js"></script>
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="6dGT0DLL4Sq5FgeNFHuk2tLRK2PDEkoUtKVbtACp0l4=" name="csrf-token" />
+  <script type="text/javascript"
+	  src="https://maps.googleapis.com/maps/api/js?libraries=geometry&sensor=false">
+  </script>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+   <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+  <script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/2.4.1/lodash.min.js"></script>
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.1.js"></script>
+    <script type="text/javascript" src="http://code.highcharts.com/highcharts.js"></script>
+    <link href="/WebsiteData/bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  
+</head>
+<body style="background-color: #696969;">
+      <!-- Navigation -->
+        <nav class="navbar navbar-default navbar-static-top" role="navigation">
+         <a class= "btn btn-link pull-left"  style="color:white;" href="/WebsiteData/HTML/DashBoard.html"> <i class="fa fa-arrow-left fa-2x"></i> Back</a>
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/WebsiteData/HTML/DashBoard.html" style="color:white;"><b>Bay Area Bike Share Analysis</b></a>
+            </div>
+
+            <!-- /.navbar-header -->
+
+            <ul class="nav navbar-top-links navbar-right"> 
+                <!-- /.dropdown -->
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                        <i class="fa fa-user fa-fw"></i>  <i class="fa fa-caret-down"></i>
+                    </a>
+                </li>
+                <!-- /.dropdown -->
+            </ul>
+            </nav>
+<h2 class="text-center"  style="color:white;">Virtual Data Visualization</h2>
+
+<div class="customeContainer">
+<div id="map-canvas"></div>
+
+
+<div "pull-left" id="infobox">
+<div id="widnow">
+    <div id="title_bar">
+<br><br><br>
+   <div id="button"> <b>-</b> </div>
+    <b>Monthly Analysis</b> <div id="time-holder"></div>
+   <div id="box-holder">
+   <form>
+   <b>Select City</b> <br>
+ <input class="center"type="radio" name="mychart1"  id= "sanfrancisco" value="San Francisco"  checked> San Francisco
+ <input class="center"type="radio" name="mychart1"  id= "sanjose" value="San Jose"  > San Jose<br>
+ <input class="center"type="radio" name="mychart1"  id= "paloalto" value="Palo Alto" > Palo Alto
+ <input class="center"type="radio" name="mychart1"  id= "redwoodcity" value="Redwood City"  > Redwood City
+ <input class="center"type="radio" name="mychart1"  id= "mountainview" value="Mountain View"  > Mountain View
+ </form>
+<b> Select type of Day </b> <br>
+ <input class="center myradio"type="radio" name="mychart"  id= "weekday" value="weekday"  checked > Weekday (Monday - Friday)
+ <input class="center myradio"type="radio" name="mychart"  id= "weekend" value="weekend"  > Weekend (Saturday - Sunday)
+<br><br>
+ <button id ="loadTrips" class="btn btn-primary" >Load Trips </button>
+   <!-- <div id="date-holder"></div> -->
+ <!--  <div><button id ="clickMe">Show Virtual Real Time Visualization</button></div> -->
+   <!--  <div id="datepicker"></div>
+    <br> -->
+
+<br>  <br>
+ Demand Analysis<div id= "demandAnalysis"></div>
+ Select Graph: <input class="center mygraph"type="radio" name="revenue"  id= "revenue" value="Revenue" onclick="drawChart('Revenue')" checked > <b>Revenue</b>
+ <input class="center mygraph"type="radio" name="revenue"  id= "trips" value="Trips" onclick="drawChart('Trips')"> <b>Trips</b>
+ <h6 class="text-center"> Revenue is calculated based on duaration of trips (30 mins = 4$)</h6>
+ <div id="container"></div>   
+    
+  </div>
+  
+</div>
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+  
+new Map();
+
+  });
+</script>
+
+</body>
+</html>

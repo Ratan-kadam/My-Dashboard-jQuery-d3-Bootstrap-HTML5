@@ -1,0 +1,40 @@
+<div class="customeContainer">
+<div id="map-canvas" style="height: 812px;"></div>
+<div id="widnow">
+    <div id="title_bar">
+
+   <div id="button"> <b>-</b> </div>
+    <b>Monthly Analysis</b> <div id="time-holder"></div>
+   <div id="box-holder">
+   <form>
+   <b>Select City</b> <br>
+ <input class="center"type="radio" name="mychart1"  id= "sanfrancisco" value="San Francisco"  checked> San Francisco
+ <input class="center"type="radio" name="mychart1"  id= "sanjose" value="San Jose"  > San Jose<br>
+ <input class="center"type="radio" name="mychart1"  id= "paloalto" value="Palo Alto" > Palo Alto
+ <input class="center"type="radio" name="mychart1"  id= "redwoodcity" value="Redwood City"  > Redwood City
+ <input class="center"type="radio" name="mychart1"  id= "mountainview" value="Mountain View"  > Mountain View
+ </form>
+<b> Select type of Day </b> <br>
+ <input class="center myradio"type="radio" name="mychart"  id= "weekday" value="weekday"  checked > Weekday (Monday - Friday)
+ <input class="center myradio"type="radio" name="mychart"  id= "weekend" value="weekend"  > Weekend (Saturday - Sunday)
+<br><br>
+ <button id ="loadTrips" class="btn btn-primary" >Load Trips </button>
+
+<br>  <br>
+ Demand Analysis<div id= "demandAnalysis"></div>
+ Select Graph: <input class="center mygraph"type="radio" name="revenue"  id= "revenue" value="Revenue" onclick="drawChart('Revenue')" checked > <b>Revenue</b>
+ <input class="center mygraph"type="radio" name="revenue"  id= "trips" value="Trips" onclick="drawChart('Trips')"> <b>Trips</b>
+ <h6 class="text-center"> Revenue is calculated based on duaration of trips (30 mins = 4$)</h6>
+ <div id="container" style="min-width: 400px;"></div>   
+    
+  </div>
+  
+</div>
+</div>
+</div>
+
+<script type="text/javascript">
+    $.getScript('/WebsiteData/HTML/virtualRealData.js'); 
+new Map();
+
+</script>
